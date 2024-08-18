@@ -1,0 +1,379 @@
+{
+    "id": 13953461,
+    "status": "Accepted",
+    "year": 2019,
+    "resource_url": "https://api.discogs.com/releases/13953461",
+    "uri": "https://www.discogs.com/release/13953461-Baco-Exu-Do-Blues-Bluesman",
+    "artists": [
+        {
+            "name": "Baco Exu Do Blues",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 5748439,
+            "resource_url": "https://api.discogs.com/artists/5748439"
+        }
+    ],
+    "artists_sort": "Baco Exu Do Blues",
+    "labels": [
+        {
+            "name": "999 (4)",
+            "catno": "EAEOLP015",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3363372,
+            "resource_url": "https://api.discogs.com/labels/3363372"
+        },
+        {
+            "name": "EAEO Records",
+            "catno": "EAEOLP015",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2062564,
+            "resource_url": "https://api.discogs.com/labels/2062564"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Estúdio EAEO",
+            "catno": "",
+            "entity_type": "23",
+            "entity_type_name": "Recorded At",
+            "id": 1688618,
+            "resource_url": "https://api.discogs.com/labels/1688618"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Grey, Gatefold ",
+            "descriptions": [
+                "LP",
+                "Album"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 227,
+        "want": 120,
+        "rating": {
+            "count": 35,
+            "average": 4.51
+        },
+        "submitter": {
+            "username": "Ri0Records",
+            "resource_url": "https://api.discogs.com/users/Ri0Records"
+        },
+        "contributors": [
+            {
+                "username": "Ri0Records",
+                "resource_url": "https://api.discogs.com/users/Ri0Records"
+            },
+            {
+                "username": "Rokup",
+                "resource_url": "https://api.discogs.com/users/Rokup"
+            },
+            {
+                "username": "adrianorampazzo",
+                "resource_url": "https://api.discogs.com/users/adrianorampazzo"
+            },
+            {
+                "username": "blueschief",
+                "resource_url": "https://api.discogs.com/users/blueschief"
+            },
+            {
+                "username": "romulloalves",
+                "resource_url": "https://api.discogs.com/users/romulloalves"
+            },
+            {
+                "username": "jackgraziano",
+                "resource_url": "https://api.discogs.com/users/jackgraziano"
+            },
+            {
+                "username": "pedro.andrade",
+                "resource_url": "https://api.discogs.com/users/pedro.andrade"
+            },
+            {
+                "username": "LeonaDeLaRoca",
+                "resource_url": "https://api.discogs.com/users/LeonaDeLaRoca"
+            },
+            {
+                "username": "steve.fletcher",
+                "resource_url": "https://api.discogs.com/users/steve.fletcher"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2019-08-02T21:31:18-07:00",
+    "date_changed": "2024-08-07T12:52:07-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "Bluesman",
+    "country": "Germany",
+    "released": "2019",
+    "released_formatted": "2019",
+    "identifiers": [
+        {
+            "type": "Matrix / Runout",
+            "value": "EAOALP 015 A"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "EAOALP 015 B"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=wk-Eg7QjCWI",
+            "title": "Bluesman Álbum Completo - Baco Exu do Blues",
+            "description": "Álbum Completo do Baco Exu do Blues Bluesman\n\nPlaylist das músicas originais: https://www.youtube.com/playlist?list=PLEBT36dqW0GJ07iVGqPFePEB-_ASyttBn\n\nInício das faixas nos comentários",
+            "duration": 1825,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Hip Hop",
+        "Blues"
+    ],
+    "styles": [
+        "Trap",
+        "Bass Music",
+        "Rhythm & Blues",
+        "Favela Funk"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Bluesman",
+            "duration": "2:53"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Queima Minha Pele",
+            "extraartists": [
+                {
+                    "name": "Tim Bernardes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 13175214,
+                    "resource_url": "https://api.discogs.com/artists/13175214"
+                }
+            ],
+            "duration": "3:47"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Me Desculpa Jay Z",
+            "extraartists": [
+                {
+                    "name": "1LUM3",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 7298056,
+                    "resource_url": "https://api.discogs.com/artists/7298056"
+                }
+            ],
+            "duration": "3:33"
+        },
+        {
+            "position": "A4",
+            "type_": "track",
+            "title": "Minotauro De Borges",
+            "duration": "3:24"
+        },
+        {
+            "position": "A5",
+            "type_": "track",
+            "title": "Kanye West Da Bahia",
+            "extraartists": [
+                {
+                    "name": "Bibi Caetano",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 7298057,
+                    "resource_url": "https://api.discogs.com/artists/7298057"
+                },
+                {
+                    "name": "DKVPZ",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 5631560,
+                    "resource_url": "https://api.discogs.com/artists/5631560"
+                }
+            ],
+            "duration": "4:10"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Flamingos",
+            "extraartists": [
+                {
+                    "name": "Tuyo (3)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 7946087,
+                    "resource_url": "https://api.discogs.com/artists/7946087"
+                }
+            ],
+            "duration": "3:58"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Girassóis De Van Gogh",
+            "duration": "3:04"
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "Preto E Prata",
+            "duration": "2:16"
+        },
+        {
+            "position": "B4",
+            "type_": "track",
+            "title": "BB King",
+            "duration": "3:19"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "DKVPZ",
+            "anv": "",
+            "join": "",
+            "role": "Beats",
+            "tracks": "A2, A4, A5, B1, B2, B3",
+            "id": 5631560,
+            "resource_url": "https://api.discogs.com/artists/5631560"
+        },
+        {
+            "name": "JLZ",
+            "anv": "",
+            "join": "",
+            "role": "Beats",
+            "tracks": "B4",
+            "id": 7351149,
+            "resource_url": "https://api.discogs.com/artists/7351149"
+        },
+        {
+            "name": "Portugal",
+            "anv": "",
+            "join": "",
+            "role": "Beats",
+            "tracks": "A1, A3, B2",
+            "id": 1188235,
+            "resource_url": "https://api.discogs.com/artists/1188235"
+        },
+        {
+            "name": "Christiano Vellutini",
+            "anv": "",
+            "join": "",
+            "role": "Design",
+            "tracks": "",
+            "id": 7351147,
+            "resource_url": "https://api.discogs.com/artists/7351147"
+        },
+        {
+            "name": "João Falsztyn",
+            "anv": "",
+            "join": "",
+            "role": "Design",
+            "tracks": "",
+            "id": 7351146,
+            "resource_url": "https://api.discogs.com/artists/7351146"
+        },
+        {
+            "name": "Helen Salamão",
+            "anv": "",
+            "join": "",
+            "role": "Photography By",
+            "tracks": "",
+            "id": 7351148,
+            "resource_url": "https://api.discogs.com/artists/7351148"
+        },
+        {
+            "name": "Felipe Nelson Crocco",
+            "anv": "Felipe Crocco",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "A1, A2, A3, A5, B1, B2",
+            "id": 2742281,
+            "resource_url": "https://api.discogs.com/artists/2742281"
+        },
+        {
+            "name": "João Noronha",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "A1, A2, A3, A5, B1, B2",
+            "id": 5448554,
+            "resource_url": "https://api.discogs.com/artists/5448554"
+        },
+        {
+            "name": "Cesar Pierri",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Mixed By, Mastered By",
+            "tracks": "",
+            "id": 4506256,
+            "resource_url": "https://api.discogs.com/artists/4506256"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https://i.discogs.com/wYMxqYJ_8Ui5TzhIQHeywqevOlXpBAGLaFVYj0pcQCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/wYMxqYJ_8Ui5TzhIQHeywqevOlXpBAGLaFVYj0pcQCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/hoIhX7t7ItW7Y-oX1hdPXqtxA-fLgUkWrTSyaPSdewU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/Jb_ukFgRBdrFOVtbuSFgeCj6XdI6MkiK69FEyzusSjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/Jb_ukFgRBdrFOVtbuSFgeCj6XdI6MkiK69FEyzusSjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/08VaZlO9XIiqCRTRndFRdHhyG-aym89WwyzSmX7iARw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/SAuZRjTeQZnsRBhh0bTELLWRnemPTDYZnzH8YJiuayY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/SAuZRjTeQZnsRBhh0bTELLWRnemPTDYZnzH8YJiuayY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/R7YiEa7TFiVpfvQOO6zwNqj5nngZ9XSONddDZkMEh9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/BAOir0Otmn_MWv1Aa8muCFfSvUvWnuXMMMdsYhCH8MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/BAOir0Otmn_MWv1Aa8muCFfSvUvWnuXMMMdsYhCH8MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/27_4YEIX8mGfZkd6jNMSb76r1fDZUkdxziRdURuLyDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "thumb": "https://i.discogs.com/hoIhX7t7ItW7Y-oX1hdPXqtxA-fLgUkWrTSyaPSdewU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

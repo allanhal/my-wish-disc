@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import './App.css';
 
 import axios from 'axios';
@@ -7,7 +8,14 @@ const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
 const KEY_STRING = `?&key=${KEY}&secret=${SECRET}`;
 
-const IDS = [5604009, 3535360];
+const IDS = [
+  5604009, 3535360,
+  //  12642678,
+  13953461,
+  //  1007820,
+  2848009, 6528159, 247822,
+];
+const IDS_REMOTE = [247822];
 
 function App() {
   const [data, setData] = useState<
@@ -23,16 +31,31 @@ function App() {
   >();
 
   useEffect(() => {
-    const execReq = async () => {
+    const execReqLocal = async () => {
       const res = await Promise.all(
-        IDS.map((id) =>
+        IDS.map((id) => import(`../data/${id}.json`))
+      );
+
+      setData(res);
+    };
+
+    const execReqRemote = async () => {
+      const res = await Promise.all(
+        IDS_REMOTE.map((id) =>
           axios(`https://api.discogs.com/releases/${id}` + KEY_STRING)
         )
       );
 
       setData(res.map((res) => res.data));
     };
-    execReq();
+
+    if (IDS && IDS.length > 0) {
+      execReqLocal();
+    }
+
+    // if (IDS_REMOTE && IDS_REMOTE.length > 0) {
+    //   execReqRemote();
+    // }
   }, []);
 
   // useEffect(() => {
@@ -42,7 +65,7 @@ function App() {
   // }, [data]);
 
   if (!data || data.length === 0) {
-    return <p>Loading...</p>;
+    return <p className="animate-ping">Loading...</p>;
   }
 
   return (
@@ -53,7 +76,7 @@ function App() {
       <div className="flex justify-center items-center gap-10 flex-wrap">
         {data?.map((item) => (
           <a key={item.id} href={item.uri} target="_blank">
-            <div className="max-w-sm rounded overflow-hidden shadow-lg py-5">
+            <div className="max-w-sm rounded overflow-hidden shadow-lg py-5 w-[300px]">
               <div className="flex justify-center items-center">
                 <img
                   className="h-[100px]"

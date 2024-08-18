@@ -1,0 +1,432 @@
+{
+    "id": 6528159,
+    "status": "Accepted",
+    "year": 2013,
+    "resource_url": "https://api.discogs.com/releases/6528159",
+    "uri": "https://www.discogs.com/release/6528159-Emicida-O-Glorioso-Retorno-De-Quem-Nunca-Esteve-Aqui",
+    "artists": [
+      {
+        "name": "Emicida",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2724690,
+        "resource_url": "https://api.discogs.com/artists/2724690"
+      }
+    ],
+    "artists_sort": "Emicida",
+    "labels": [
+      {
+        "name": "Lab Fantasma",
+        "catno": "LABBRV2014001",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 883518,
+        "resource_url": "https://api.discogs.com/labels/883518"
+      },
+      {
+        "name": "Pommelo Distribuições",
+        "catno": "LABBRV2014001",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 883519,
+        "resource_url": "https://api.discogs.com/labels/883519"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Poly Som Com. e Ind. de Plásticos Ltda.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 395160,
+        "resource_url": "https://api.discogs.com/labels/395160"
+      },
+      {
+        "name": "Pommelo Distribuições e Editorações Ltda.",
+        "catno": "",
+        "entity_type": "38",
+        "entity_type_name": "Manufactured For",
+        "id": 599314,
+        "resource_url": "https://api.discogs.com/labels/599314"
+      },
+      {
+        "name": "Studio Flapc4",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 924874,
+        "resource_url": "https://api.discogs.com/labels/924874"
+      },
+      {
+        "name": "Public Swimming Pool",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1858134,
+        "resource_url": "https://api.discogs.com/labels/1858134"
+      },
+      {
+        "name": "Estúdio Loud",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1858135,
+        "resource_url": "https://api.discogs.com/labels/1858135"
+      },
+      {
+        "name": "Mixnova",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1516222,
+        "resource_url": "https://api.discogs.com/labels/1516222"
+      },
+      {
+        "name": "Estúdio Parede-Meia",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 2080795,
+        "resource_url": "https://api.discogs.com/labels/2080795"
+      },
+      {
+        "name": "Estúdio Timbre",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 679072,
+        "resource_url": "https://api.discogs.com/labels/679072"
+      },
+      {
+        "name": "Mixnova",
+        "catno": "",
+        "entity_type": "27",
+        "entity_type_name": "Mixed At",
+        "id": 1516222,
+        "resource_url": "https://api.discogs.com/labels/1516222"
+      },
+      {
+        "name": "Masterdisk",
+        "catno": "",
+        "entity_type": "29",
+        "entity_type_name": "Mastered At",
+        "id": 264111,
+        "resource_url": "https://api.discogs.com/labels/264111"
+      },
+      {
+        "name": "Laboratório Fantasma",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 429313,
+        "resource_url": "https://api.discogs.com/labels/429313"
+      },
+      {
+        "name": "Laboratório Fantasma",
+        "catno": "",
+        "entity_type": "14",
+        "entity_type_name": "Copyright (c)",
+        "id": 429313,
+        "resource_url": "https://api.discogs.com/labels/429313"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 112,
+      "want": 137,
+      "rating": {
+        "count": 16,
+        "average": 4.56
+      },
+      "submitter": {
+        "username": "dolfits",
+        "resource_url": "https://api.discogs.com/users/dolfits"
+      },
+      "contributors": [
+        {
+          "username": "dolfits",
+          "resource_url": "https://api.discogs.com/users/dolfits"
+        },
+        {
+          "username": "Dr.Alternative",
+          "resource_url": "https://api.discogs.com/users/Dr.Alternative"
+        },
+        {
+          "username": "jweijde",
+          "resource_url": "https://api.discogs.com/users/jweijde"
+        },
+        {
+          "username": "comeback-rec",
+          "resource_url": "https://api.discogs.com/users/comeback-rec"
+        },
+        {
+          "username": "khadi",
+          "resource_url": "https://api.discogs.com/users/khadi"
+        },
+        {
+          "username": "Blackmaiden",
+          "resource_url": "https://api.discogs.com/users/Blackmaiden"
+        },
+        {
+          "username": "lbamaral",
+          "resource_url": "https://api.discogs.com/users/lbamaral"
+        },
+        {
+          "username": "lapcosta",
+          "resource_url": "https://api.discogs.com/users/lapcosta"
+        },
+        {
+          "username": "shetzo",
+          "resource_url": "https://api.discogs.com/users/shetzo"
+        },
+        {
+          "username": "martinellifrombrazil",
+          "resource_url": "https://api.discogs.com/users/martinellifrombrazil"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2015-01-14T20:56:56-08:00",
+    "date_changed": "2024-05-07T19:18:59-07:00",
+    "num_for_sale": 1,
+    "lowest_price": 114.96,
+    "master_id": 882453,
+    "master_url": "https://api.discogs.com/masters/882453",
+    "title": "O Glorioso Retorno De Quem Nunca Esteve Aqui",
+    "country": "Brazil",
+    "released": "2013",
+    "released_formatted": "2013",
+    "identifiers": [],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Tk7bW99MUw4",
+        "title": "Emicida   O Glorioso Retorno de Quem Nunca Esteve Aqui Album CD Completo",
+        "description": "",
+        "duration": 3083,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vxP_slKy284",
+        "title": "Emicida Hino Vira-Lata (audio)",
+        "description": "Inscreva-se no canal oficial do Emicida http://bit.ly/EmicidaYT\n\nAdquira os produtos oficiais do Emicida: http://www.laboratoriofantasma.com/loja\n\nEscutar / Comprar\niTunes http://bit.ly/iTunesEmicida\nSpotify http://bit.ly/SpotifyEmicida\nDeezer http://bit.",
+        "duration": 193,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Hip Hop",
+      "Latin"
+    ],
+    "styles": [
+      "Conscious",
+      "MPB",
+      "Pop Rap"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Levanta E Anda",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Nóiz",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Zóião",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Crisântemo",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Hoje Cedo",
+        "extraartists": [
+          {
+            "name": "Pitty",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 258328,
+            "resource_url": "https://api.discogs.com/artists/258328"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Trepadeira",
+        "extraartists": [
+          {
+            "name": "Wilson das Neves",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 257966,
+            "resource_url": "https://api.discogs.com/artists/257966"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Bang!",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Gueto",
+        "extraartists": [
+          {
+            "name": "MC Guimê",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4152274,
+            "resource_url": "https://api.discogs.com/artists/4152274"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Hino Vira-Lata",
+        "extraartists": [
+          {
+            "name": "Quinteto Em Branco E Preto",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3488329,
+            "resource_url": "https://api.discogs.com/artists/3488329"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Alma Gêmea",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Samba do Fim do Mundo",
+        "extraartists": [
+          {
+            "name": "Fabiana Cozza",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2856882,
+            "resource_url": "https://api.discogs.com/artists/2856882"
+          },
+          {
+            "name": "Juçara Marçal",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3422648,
+            "resource_url": "https://api.discogs.com/artists/3422648"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Ubuntu Fristali",
+        "duration": ""
+      }
+    ],
+    "extraartists": [],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/6rvPaPmW884fcBnzGwt3_r4sbQADgXXvRFnCAZknf-o/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/6rvPaPmW884fcBnzGwt3_r4sbQADgXXvRFnCAZknf-o/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YqvpVANmzfjvy-rPa39jCeR0AfN79ooWJ7WDd_0fIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vyRSwnjHcpTW_IKxmj5NyHFWR3efDQHDppgGNSlp-dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/vyRSwnjHcpTW_IKxmj5NyHFWR3efDQHDppgGNSlp-dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_2SCWzspVRVEKe5sSHnlSqOW7_fttlXHurOlOuoMbxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RwXrCBK6vTVN_uc3F8LIIHCXO7A10bIh9RT2_GGyKUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/RwXrCBK6vTVN_uc3F8LIIHCXO7A10bIh9RT2_GGyKUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MOiJb6Gb7ooF5izqprz7Q3CB9iPWPP_HwNiAryYUFpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/apCKfGmt92x5tEIIK6mYI-O-8VzOosBIV2ljXfBtuwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/apCKfGmt92x5tEIIK6mYI-O-8VzOosBIV2ljXfBtuwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wB7fC9PCYyedAhRv5dshzX6gJUkzZFt17z8vxPk4KpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kpLIsjfD_fK83Doa-Z-8T1qeS-EX5VwMdaskHuTTdfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/kpLIsjfD_fK83Doa-Z-8T1qeS-EX5VwMdaskHuTTdfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1JbFGioZC5VxDCCSyn852RIjHX4Gh0r6zsOiCDnvRXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sfe93pm4YnuarAxyqwilqLdYva1vyGU2WJR0039HISo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/sfe93pm4YnuarAxyqwilqLdYva1vyGU2WJR0039HISo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8rd1jsAKjYLCrUdhoIuE8X3u-SGXFiaShSIA5ND2ZJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/YqvpVANmzfjvy-rPa39jCeR0AfN79ooWJ7WDd_0fIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+  }

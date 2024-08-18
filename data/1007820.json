@@ -1,0 +1,945 @@
+{
+    "id": 1007820,
+    "status": "Accepted",
+    "year": 1995,
+    "resource_url": "https://api.discogs.com/releases/1007820",
+    "uri": "https://www.discogs.com/release/1007820-Mamonas-Assassinas-Mamonas-Assassinas",
+    "artists": [
+      {
+        "name": "Mamonas Assassinas",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 267349,
+        "resource_url": "https://api.discogs.com/artists/267349"
+      }
+    ],
+    "artists_sort": "Mamonas Assassinas",
+    "labels": [
+      {
+        "name": "EMI",
+        "catno": "064 835082 1",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 26126,
+        "resource_url": "https://api.discogs.com/labels/26126"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "EMI-Odeon Fonográfica, Industrial E Eletrônica Ltda.",
+        "catno": "",
+        "entity_type": "9",
+        "entity_type_name": "Distributed By",
+        "id": 300871,
+        "resource_url": "https://api.discogs.com/labels/300871"
+      },
+      {
+        "name": "BMG Ariola Discos Ltda. Divisão Sonopress",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 492435,
+        "resource_url": "https://api.discogs.com/labels/492435"
+      },
+      {
+        "name": "EMI-Odeon Brasil",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 103749,
+        "resource_url": "https://api.discogs.com/labels/103749"
+      },
+      {
+        "name": "BMG Ariola Discos Ltda. Divisão Sonopress",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 492435,
+        "resource_url": "https://api.discogs.com/labels/492435"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ]
+      }
+    ],
+    "data_quality": "Correct",
+    "community": {
+      "have": 1025,
+      "want": 365,
+      "rating": {
+        "count": 112,
+        "average": 4.43
+      },
+      "submitter": {
+        "username": "rafaelsguimaraes",
+        "resource_url": "https://api.discogs.com/users/rafaelsguimaraes"
+      },
+      "contributors": [
+        {
+          "username": "rafaelsguimaraes",
+          "resource_url": "https://api.discogs.com/users/rafaelsguimaraes"
+        },
+        {
+          "username": "Jairinho",
+          "resource_url": "https://api.discogs.com/users/Jairinho"
+        },
+        {
+          "username": "egidiosetti",
+          "resource_url": "https://api.discogs.com/users/egidiosetti"
+        },
+        {
+          "username": "Phred_Kerphluffle",
+          "resource_url": "https://api.discogs.com/users/Phred_Kerphluffle"
+        },
+        {
+          "username": "jweijde",
+          "resource_url": "https://api.discogs.com/users/jweijde"
+        },
+        {
+          "username": "Vinil_Revival",
+          "resource_url": "https://api.discogs.com/users/Vinil_Revival"
+        },
+        {
+          "username": "jwbussmann",
+          "resource_url": "https://api.discogs.com/users/jwbussmann"
+        },
+        {
+          "username": "BigBestRecords",
+          "resource_url": "https://api.discogs.com/users/BigBestRecords"
+        },
+        {
+          "username": "Fabioluiz100",
+          "resource_url": "https://api.discogs.com/users/Fabioluiz100"
+        },
+        {
+          "username": "Nilton_MSLima",
+          "resource_url": "https://api.discogs.com/users/Nilton_MSLima"
+        },
+        {
+          "username": "pierreoitmann",
+          "resource_url": "https://api.discogs.com/users/pierreoitmann"
+        }
+      ],
+      "data_quality": "Correct",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2007-08-17T12:11:29-07:00",
+    "date_changed": "2024-07-14T09:07:06-07:00",
+    "num_for_sale": 6,
+    "lowest_price": 22.85,
+    "master_id": 183583,
+    "master_url": "https://api.discogs.com/masters/183583",
+    "title": "Mamonas Assassinas",
+    "country": "Brazil",
+    "released": "1995-06-23",
+    "notes": "Stamped Runouts",
+    "released_formatted": "23 Jun 1995",
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "7 24383 50821 1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "724383508211",
+        "description": "Scanned"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "BMG",
+        "description": "Stamped on Runouts"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BMG 835082-1-A . 1STA2",
+        "description": "A Side Runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BMG 835082-1-A . 1STB3",
+        "description": "B Side Runout"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=1WjI3DLOk4c",
+        "title": "Mamonas Assassinas - Vira-Vira",
+        "description": "🎶 Compre produtos oficiais na UMusic Store: https://www.umusicstore.com\n\n🎶 Compre produtos oficiais: https://umusicstore.lnk.to/MamonasAssassinasYC\n\nVira-Vira\n\nFui convidado pra uma tal de suruba\nNão pude ir, Maria foi no meu lugar\nDepois de uma semana el",
+        "duration": 141,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0WKHu0bNXDY",
+        "title": "Mamonas Assassinas - 1406",
+        "description": "Mamonas assassinas - 1406  1° musica  do album mais famoso dos mamonas assassinas",
+        "duration": 248,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Nz7101ulkK0",
+        "title": "Mamonas Assassinas - Pelados Em Santos",
+        "description": "🎶 Compre produtos oficiais na UMusic Store: https://www.umusicstore.com\n\n🎶 Compre produtos oficiais: https://umusicstore.lnk.to/MamonasAssassinasYC\n\nPelados em Santos\n\nMina, seus cabelo é da hora\nSeu corpão violão\nMeu docinho de coco\nTá me deixando louco\n",
+        "duration": 205,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XI_iX95aRm8",
+        "title": "Mamonas Assassinas - Chopis Centis",
+        "description": "Mamonas Assassinas - Chopis Centis 4° musica do album mais famoso dos Mamonas assassinas",
+        "duration": 168,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cIrROoxD6Iw",
+        "title": "Mamonas Assassinas - Jumento Celestino",
+        "description": "Mamonas Assassinas - Jumento Celestino 5° musica do melhor album dos Mamonas Assassinas",
+        "duration": 151,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=T41N5fq_FrI",
+        "title": "Mamonas Assassinas - Sabão Cra-Cra (letra) The Mad Ku-Ku",
+        "description": "https://www.facebook.com/gootiealbernaz\nhttps://www.instagram.com/supergootie/\nhttps://twitter.com/supergootie\nhttps://www.facebook.com/supergootie/\n\nSabão crá-crá\nSabão crá-crá\nnão deixa os cabelos do saco enrolar\nSabão cré-cré\nSabão cré-cré\nNão deixa os",
+        "duration": 43,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=OEy5ahVF7A8",
+        "title": "Mamonas Assassinas - Uma arlinda mulher",
+        "description": "Mamonas Assassinas - Uma arlinda mulher  7° musica do melhor album dos Mamonas Assassinas",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mGqNXSik3jU",
+        "title": "Mamonas Assassinas - Cabeça De Bagre ll (Studio Version)",
+        "description": "Loucura, insensatez, estado inevitável\nEmbalagem de iogurte inviolável\nFome, miséria, incompreensão,\nO Brasil é Treta Campeão\n\nQuando eu repeti a 5ª série E,\nTirava E, D, de vez em quando um C\nMais de dez minutos se passaram-se\nCê, cê, cê, cererê cê cê\n\nA",
+        "duration": 140,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=nsSyiPV-Xhc",
+        "title": "Mamonas Assassinas - Mundo animal",
+        "description": "Mamonas Assassinas - Mundo animal  9° musica do melhor album dos Mamonas Assassinas",
+        "duration": 237,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6tyNFb73l7I",
+        "title": "Mamonas Assassinas - Robocop Gay ( letra )",
+        "description": "https://www.instagram.com/gootiealbernaz/\nhttps://twitter.com/gootiealbernaz\nhttps://www.facebook.com/gootiealbernaz\nhttps://www.facebook.com/supergootie\n\nUm tanto quanto másculo\nCom M maiúsculo\nVejam só os meus músculos\nQue com amor cultivei\nMinha pistol",
+        "duration": 180,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-llUm2EN3hM",
+        "title": "Mamonas Assassinas - Bois Don't Cry",
+        "description": "- Letra:\n\nSer corno ou não ser\nEis a minha indagação\nSem você vivo sofrendo\nPelos buteco bebendo\nArrumando confusão...\n\nVocê é muito formosa\nTão bonita e carinhosa\nDo jeito que eu sempre quis\nMinha coisinha gostosa\nDá aos pobres, é bondosa\nSou corno mas",
+        "duration": 179,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1WqDUfEyw6E",
+        "title": "Mamonas Assassinas - Débil Metal",
+        "description": "Mamonas Assassinas - Débil Metal  12° musica do melhor album dos Mamonas assassinas",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0BPu7SirrFc",
+        "title": "Mamonas Assassinas - Sabado de sol",
+        "description": "Mamonas Assassinas - Sabado de sol   13° musica do melhor album dos Mamonas assassinas",
+        "duration": 61,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cWJ3WtB9wYA",
+        "title": "Mamonas Assassinas - Lá vem o alemão | (letra)",
+        "description": "Banda: Mamonas Assassinas\n\nClipe original: https://youtu.be/oNrWWBHibY4\n\nLetra:\nSó de pensar que nós dois éramos dois\nEu feijão, você arroz\nTemperados com Sazón\nSó de lembrar nós na Kombi no Domingo\nNosso amor era tão lindo\nNós descíamos pro Boqueirão\n\nA ",
+        "duration": 200,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "1406",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          }
+        ],
+        "duration": "4:06"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Vira-Vira",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          }
+        ],
+        "duration": "2:21"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Pelados Em Santos",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Chopis Centis",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          }
+        ],
+        "duration": "2:46"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Jumento Celestino",
+        "extraartists": [
+          {
+            "name": "Bento Hinoto",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285468,
+            "resource_url": "https://api.discogs.com/artists/3285468"
+          },
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          }
+        ],
+        "duration": "2:37"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Sabão Crá-Crá",
+        "extraartists": [
+          {
+            "name": "Unknown Artist",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 355,
+            "resource_url": ""
+          }
+        ],
+        "duration": "0:41"
+      },
+      {
+        "position": "A7",
+        "type_": "track",
+        "title": "Uma Arlinda Mulher",
+        "extraartists": [
+          {
+            "name": "Bento Hinoto",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285468,
+            "resource_url": "https://api.discogs.com/artists/3285468"
+          },
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          }
+        ],
+        "duration": "3:18"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Cabeça De Bagre II",
+        "extraartists": [
+          {
+            "name": "Bento Hinoto",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285468,
+            "resource_url": "https://api.discogs.com/artists/3285468"
+          },
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          },
+          {
+            "name": "Samuel Reoli",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285469,
+            "resource_url": "https://api.discogs.com/artists/3285469"
+          },
+          {
+            "name": "Sérgio Reoli",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285464,
+            "resource_url": "https://api.discogs.com/artists/3285464"
+          },
+          {
+            "name": "Hal David",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Música Incidental: \"Baby Elephant Walk\"]",
+            "tracks": "",
+            "id": 173078,
+            "resource_url": "https://api.discogs.com/artists/173078"
+          },
+          {
+            "name": "Henry Mancini",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Música Incidental: \"Baby Elephant Walk\"]",
+            "tracks": "",
+            "id": 10529,
+            "resource_url": "https://api.discogs.com/artists/10529"
+          }
+        ],
+        "duration": "2:25"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Mundo Animal",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          }
+        ],
+        "duration": "3:49"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Robocop Gay",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          }
+        ],
+        "duration": "2:58"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Bois Don't Cry",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          }
+        ],
+        "duration": "2:56"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Débil Metal",
+        "extraartists": [
+          {
+            "name": "Bento Hinoto",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285468,
+            "resource_url": "https://api.discogs.com/artists/3285468"
+          },
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          },
+          {
+            "name": "Samuel Reoli",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285469,
+            "resource_url": "https://api.discogs.com/artists/3285469"
+          },
+          {
+            "name": "Sérgio Reoli",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285464,
+            "resource_url": "https://api.discogs.com/artists/3285464"
+          }
+        ],
+        "duration": "3:04"
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Sábado De Sol",
+        "extraartists": [
+          {
+            "name": "Felipe Knoblitch",
+            "anv": "Felipe",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285465,
+            "resource_url": "https://api.discogs.com/artists/3285465"
+          },
+          {
+            "name": "Pedro Knoedt",
+            "anv": "Pedro",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285467,
+            "resource_url": "https://api.discogs.com/artists/3285467"
+          },
+          {
+            "name": "Rafael Ramos",
+            "anv": "Rafael",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 471680,
+            "resource_url": "https://api.discogs.com/artists/471680"
+          }
+        ],
+        "duration": "0:59"
+      },
+      {
+        "position": "B7",
+        "type_": "track",
+        "title": "Lá Vem O Alemão",
+        "extraartists": [
+          {
+            "name": "Dinho (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3285461,
+            "resource_url": "https://api.discogs.com/artists/3285461"
+          },
+          {
+            "name": "Júlio Rasec",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2777916,
+            "resource_url": "https://api.discogs.com/artists/2777916"
+          }
+        ],
+        "duration": "3:21"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Rick Bonadio",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By",
+        "tracks": "11, 14",
+        "id": 252040,
+        "resource_url": "https://api.discogs.com/artists/252040"
+      },
+      {
+        "name": "Mamonas Assassinas",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By, Design Concept",
+        "tracks": "",
+        "id": 267349,
+        "resource_url": "https://api.discogs.com/artists/267349"
+      },
+      {
+        "name": "João Augusto",
+        "anv": "Uncle John",
+        "join": "",
+        "role": "Art Direction",
+        "tracks": "",
+        "id": 849050,
+        "resource_url": "https://api.discogs.com/artists/849050"
+      },
+      {
+        "name": "Samuel Reoli",
+        "anv": "",
+        "join": "",
+        "role": "Bass, Vocals",
+        "tracks": "",
+        "id": 3285469,
+        "resource_url": "https://api.discogs.com/artists/3285469"
+      },
+      {
+        "name": "Sérgio Reoli",
+        "anv": "",
+        "join": "",
+        "role": "Drums, Vocals",
+        "tracks": "",
+        "id": 3285464,
+        "resource_url": "https://api.discogs.com/artists/3285464"
+      },
+      {
+        "name": "Mário Busch",
+        "anv": "",
+        "join": "",
+        "role": "Graphics",
+        "tracks": "",
+        "id": 3285462,
+        "resource_url": "https://api.discogs.com/artists/3285462"
+      },
+      {
+        "name": "Patricia Delgado",
+        "anv": "",
+        "join": "",
+        "role": "Graphics",
+        "tracks": "",
+        "id": 2844083,
+        "resource_url": "https://api.discogs.com/artists/2844083"
+      },
+      {
+        "name": "Cesar do Acordeom",
+        "anv": "",
+        "join": "",
+        "role": "Guest, Accordion",
+        "tracks": "",
+        "id": 2444409,
+        "resource_url": "https://api.discogs.com/artists/2444409"
+      },
+      {
+        "name": "Leandro Lehart",
+        "anv": "",
+        "join": "",
+        "role": "Guest, Cavaquinho",
+        "tracks": "",
+        "id": 2246117,
+        "resource_url": "https://api.discogs.com/artists/2246117"
+      },
+      {
+        "name": "Rick Bonadio",
+        "anv": "",
+        "join": "",
+        "role": "Guest, Keyboards [Additional], Scratches, Triangle, Effects [Wah Wah], Recorded By",
+        "tracks": "",
+        "id": 252040,
+        "resource_url": "https://api.discogs.com/artists/252040"
+      },
+      {
+        "name": "Fabinho",
+        "anv": "",
+        "join": "",
+        "role": "Guest, Percussion",
+        "tracks": "",
+        "id": 3285463,
+        "resource_url": "https://api.discogs.com/artists/3285463"
+      },
+      {
+        "name": "Paquito (2)",
+        "anv": "",
+        "join": "",
+        "role": "Guest, Trumpet",
+        "tracks": "",
+        "id": 2444403,
+        "resource_url": "https://api.discogs.com/artists/2444403"
+      },
+      {
+        "name": "Bento Hinoto",
+        "anv": "",
+        "join": "",
+        "role": "Guitar, Acoustic Guitar, Vocals",
+        "tracks": "",
+        "id": 3285468,
+        "resource_url": "https://api.discogs.com/artists/3285468"
+      },
+      {
+        "name": "Carlos Sá",
+        "anv": "",
+        "join": "",
+        "role": "Illustration",
+        "tracks": "",
+        "id": 2444410,
+        "resource_url": "https://api.discogs.com/artists/2444410"
+      },
+      {
+        "name": "Júlio Rasec",
+        "anv": "",
+        "join": "",
+        "role": "Keyboards, Vocals",
+        "tracks": "",
+        "id": 2777916,
+        "resource_url": "https://api.discogs.com/artists/2777916"
+      },
+      {
+        "name": "Jerry Napier",
+        "anv": "",
+        "join": "",
+        "role": "Mixed By",
+        "tracks": "",
+        "id": 341228,
+        "resource_url": "https://api.discogs.com/artists/341228"
+      },
+      {
+        "name": "André Paoliello",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 1983653,
+        "resource_url": "https://api.discogs.com/artists/1983653"
+      },
+      {
+        "name": "Intek",
+        "anv": "",
+        "join": "",
+        "role": "Photography By [Fotolito]",
+        "tracks": "",
+        "id": 3285466,
+        "resource_url": "https://api.discogs.com/artists/3285466"
+      },
+      {
+        "name": "Creuzebek",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 6406610,
+        "resource_url": "https://api.discogs.com/artists/6406610"
+      },
+      {
+        "name": "Júnior Lanne",
+        "anv": "",
+        "join": "",
+        "role": "Recorded By",
+        "tracks": "",
+        "id": 2444404,
+        "resource_url": "https://api.discogs.com/artists/2444404"
+      },
+      {
+        "name": "Roger Sommers",
+        "anv": "",
+        "join": "",
+        "role": "Technician",
+        "tracks": "",
+        "id": 428789,
+        "resource_url": "https://api.discogs.com/artists/428789"
+      },
+      {
+        "name": "Dinho (5)",
+        "anv": "",
+        "join": "",
+        "role": "Voice, Vocals",
+        "tracks": "",
+        "id": 3285461,
+        "resource_url": "https://api.discogs.com/artists/3285461"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/n7bIIfpbyLsSXY0XAfbpnhWeRIwOgnkQpB_57PEpq5A/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0zODA5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/n7bIIfpbyLsSXY0XAfbpnhWeRIwOgnkQpB_57PEpq5A/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0zODA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HHho2hK0isJTOvwOsXlAhwoDBrKLKrn7o2tvc9tgIeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0zODA5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FjsuDMUf-BIaAidr3okfXnPakpD8KnqWmPGt1ZI5i-4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0yNzk1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/FjsuDMUf-BIaAidr3okfXnPakpD8KnqWmPGt1ZI5i-4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0yNzk1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ckFIrYkcyOBxVVqywMmjF9yY7s0efiMELK-SAoGcNJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0yNzk1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DCgGbVghb4h1unqkaTw-mpybt0-WVRRnv7cDFrkpyos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS05NTgwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/DCgGbVghb4h1unqkaTw-mpybt0-WVRRnv7cDFrkpyos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS05NTgwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zj-y_l6PyV7Dr-kjNjVuQfOzkRvkpr-Xv8NMYf1SLLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS05NTgwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QsWAuNlxf9R0fROGHiJVV5i9DIL5OapKATZu8-OeJFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0xNTc1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/QsWAuNlxf9R0fROGHiJVV5i9DIL5OapKATZu8-OeJFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0xNTc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/yep65wULbioKEno-lMOkOxGlwG2uVXTZrzhCv3UAoi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0xNTc1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CFTtoyIT1DEidJmsfQ3pHE87CUO-AbLebgNIWyfCmNE/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS04NzA2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/CFTtoyIT1DEidJmsfQ3pHE87CUO-AbLebgNIWyfCmNE/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS04NzA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/M7lp2xb-3mNrZJl4txtA3aNaQ_sbplf6dEToBDWbYRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS04NzA2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 613
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5ZE9F9ADWS9fiTaPcSUXoCgk-z9X_tl2OMJyZjr36nk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgy/MC01NzAwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/5ZE9F9ADWS9fiTaPcSUXoCgk-z9X_tl2OMJyZjr36nk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgy/MC01NzAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7UnjN4Aqc859-r5ikim7g_uDMFvqCwZkT_IpZs--UsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgy/MC01NzAwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 618
+      }
+    ],
+    "thumb": "https://i.discogs.com/HHho2hK0isJTOvwOsXlAhwoDBrKLKrn7o2tvc9tgIeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/MjAtMTYyMDY2Njgx/OS0zODA5LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+  }

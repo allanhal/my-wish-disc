@@ -1,0 +1,1120 @@
+{
+    "id": 12642678,
+    "status": "Accepted",
+    "year": 2018,
+    "resource_url": "https://api.discogs.com/releases/12642678",
+    "uri": "https://www.discogs.com/release/12642678-System-Of-A-Down-Toxicity",
+    "artists": [
+        {
+            "name": "System Of A Down",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 85889,
+            "resource_url": "https://api.discogs.com/artists/85889"
+        }
+    ],
+    "artists_sort": "System Of A Down",
+    "labels": [
+        {
+            "name": "American Recordings",
+            "catno": "19075865591",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2569,
+            "resource_url": "https://api.discogs.com/labels/2569"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Columbia",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+        },
+        {
+            "name": "Columbia",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+        },
+        {
+            "name": "Sony/ATV Tunes LLC",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 268257,
+            "resource_url": "https://api.discogs.com/labels/268257"
+        },
+        {
+            "name": "DDevil Music",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 350834,
+            "resource_url": "https://api.discogs.com/labels/350834"
+        },
+        {
+            "name": "Sony / ATV Music Publishing",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 115653,
+            "resource_url": "https://api.discogs.com/labels/115653"
+        },
+        {
+            "name": "Columbia Records",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 93330,
+            "resource_url": "https://api.discogs.com/labels/93330"
+        },
+        {
+            "name": "Cello Studios",
+            "catno": "",
+            "entity_type": "23",
+            "entity_type_name": "Recorded At",
+            "id": 266394,
+            "resource_url": "https://api.discogs.com/labels/266394"
+        },
+        {
+            "name": "Enterprise Studios",
+            "catno": "",
+            "entity_type": "27",
+            "entity_type_name": "Mixed At",
+            "id": 268111,
+            "resource_url": "https://api.discogs.com/labels/268111"
+        },
+        {
+            "name": "Oasis Mastering",
+            "catno": "",
+            "entity_type": "29",
+            "entity_type_name": "Mastered At",
+            "id": 269348,
+            "resource_url": "https://api.discogs.com/labels/269348"
+        },
+        {
+            "name": "Record Industry",
+            "catno": "24277",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 267164,
+            "resource_url": "https://api.discogs.com/labels/267164"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Stereo"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 23854,
+        "want": 3973,
+        "rating": {
+            "count": 1140,
+            "average": 4.7
+        },
+        "submitter": {
+            "username": "oldies-dot-com",
+            "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+        },
+        "contributors": [
+            {
+                "username": "oldies-dot-com",
+                "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+            },
+            {
+                "username": "yourboysyd",
+                "resource_url": "https://api.discogs.com/users/yourboysyd"
+            },
+            {
+                "username": "Foofighter494",
+                "resource_url": "https://api.discogs.com/users/Foofighter494"
+            },
+            {
+                "username": "systemofadownlive",
+                "resource_url": "https://api.discogs.com/users/systemofadownlive"
+            },
+            {
+                "username": "mainespinsrecords",
+                "resource_url": "https://api.discogs.com/users/mainespinsrecords"
+            },
+            {
+                "username": "jakowski",
+                "resource_url": "https://api.discogs.com/users/jakowski"
+            },
+            {
+                "username": "chackett",
+                "resource_url": "https://api.discogs.com/users/chackett"
+            },
+            {
+                "username": "guillaume777",
+                "resource_url": "https://api.discogs.com/users/guillaume777"
+            },
+            {
+                "username": "Juanvinilos",
+                "resource_url": "https://api.discogs.com/users/Juanvinilos"
+            },
+            {
+                "username": "PeaceLove",
+                "resource_url": "https://api.discogs.com/users/PeaceLove"
+            },
+            {
+                "username": "vinycosta",
+                "resource_url": "https://api.discogs.com/users/vinycosta"
+            },
+            {
+                "username": "davesdreamer",
+                "resource_url": "https://api.discogs.com/users/davesdreamer"
+            },
+            {
+                "username": "jon.edwards1990",
+                "resource_url": "https://api.discogs.com/users/jon.edwards1990"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2018-10-10T09:04:06-07:00",
+    "date_changed": "2022-11-29T14:03:29-08:00",
+    "num_for_sale": 71,
+    "lowest_price": 14.99,
+    "master_id": 35626,
+    "master_url": "https://api.discogs.com/masters/35626",
+    "title": "Toxicity",
+    "country": "US",
+    "released": "2018-10-12",
+    "notes": "Include printed inner sleeve with lyrics.\n\nA hidden track begins at the 4:06 mark of track B6 after a short period of silence.\nB7 is an unlisted track, although it gets mentioned on the tracklist of the backcover as \"Aerials Contains A Hidden Track\".\nTotal runtime of B6 is given with 6:11 but because both tracks are seperated with silence in between the tracklist is reflecting the actual song durations.\n\nSide B label has misprint. B4 on label is labeled Toxic.\n\nRecorded at Cello Studios, Hollywood, CA.\nMixed at Enterprise Studios, Burbank, CA.\nMastered at Oasis Mastering, Studio City, CA.\n\nAll songs © 2001 Sony/ATV Songs LLC and Ddevil Music.\n© 2001, 2018 & ℗ 2001 Columbia Records.",
+    "released_formatted": "12 Oct 2018",
+    "identifiers": [
+        {
+            "type": "Barcode",
+            "value": "190758655918",
+            "description": "Scanned"
+        },
+        {
+            "type": "Barcode",
+            "value": "1 9075-86559-1 8",
+            "description": "Printed"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "24277 1A 19075865591",
+            "description": "Runout - Side A [Stamped]"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "24277 1B 19075865591",
+            "description": "Runout - Side B [Stamped]"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "24277 2A 19075865591",
+            "description": "Runout - Side A [Stamped], variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "24277 2B 19075865591",
+            "description": "Runout - Side B [Stamped], variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "19075865591A",
+            "description": "Label - Side A"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "19075865591B",
+            "description": "Label - Side B"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "19075865591SV1",
+            "description": "Lyric Sleeve"
+        }
+    ],
+    "genres": [
+        "Rock"
+    ],
+    "styles": [
+        "Nu Metal"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Prison Song",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "3:21"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Needles",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                }
+            ],
+            "duration": "3:13"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Deer Dance",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "2:54"
+        },
+        {
+            "position": "A4",
+            "type_": "track",
+            "title": "Jet Pilot",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Shavo Odadjian",
+                    "anv": "Odadjian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 525811,
+                    "resource_url": "https://api.discogs.com/artists/525811"
+                }
+            ],
+            "duration": "2:06"
+        },
+        {
+            "position": "A5",
+            "type_": "track",
+            "title": "X",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "1:58"
+        },
+        {
+            "position": "A6",
+            "type_": "track",
+            "title": "Chop Suey!",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "3:30"
+        },
+        {
+            "position": "A7",
+            "type_": "track",
+            "title": "Bounce",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Shavo Odadjian",
+                    "anv": "Odadjian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 525811,
+                    "resource_url": "https://api.discogs.com/artists/525811"
+                }
+            ],
+            "duration": "1:54"
+        },
+        {
+            "position": "A8",
+            "type_": "track",
+            "title": "Forest",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "4:00"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "ATWA",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "2:56"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Science",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "2:42"
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "Shimmy",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                }
+            ],
+            "duration": "1:50"
+        },
+        {
+            "position": "B4",
+            "type_": "track",
+            "title": "Toxicity",
+            "extraartists": [
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Shavo Odadjian",
+                    "anv": "Odadjian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 525811,
+                    "resource_url": "https://api.discogs.com/artists/525811"
+                }
+            ],
+            "duration": "3:38"
+        },
+        {
+            "position": "B5",
+            "type_": "track",
+            "title": "Psycho",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "3:45"
+        },
+        {
+            "position": "B6",
+            "type_": "track",
+            "title": "Aerials",
+            "extraartists": [
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                },
+                {
+                    "name": "Serj Tankian",
+                    "anv": "Tankian",
+                    "join": "",
+                    "role": "Lyrics By",
+                    "tracks": "",
+                    "id": 153410,
+                    "resource_url": "https://api.discogs.com/artists/153410"
+                },
+                {
+                    "name": "Daron Malakian",
+                    "anv": "Malakian",
+                    "join": "",
+                    "role": "Music By",
+                    "tracks": "",
+                    "id": 282929,
+                    "resource_url": "https://api.discogs.com/artists/282929"
+                }
+            ],
+            "duration": "6:11"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Dino Paredes",
+            "anv": "",
+            "join": "",
+            "role": "A&R [Direction]",
+            "tracks": "",
+            "id": 569169,
+            "resource_url": "https://api.discogs.com/artists/569169"
+        },
+        {
+            "name": "Marc Mann",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Strings], Conductor [Strings]",
+            "tracks": "",
+            "id": 425092,
+            "resource_url": "https://api.discogs.com/artists/425092"
+        },
+        {
+            "name": "Brandy Flower",
+            "anv": "",
+            "join": "",
+            "role": "Art Direction",
+            "tracks": "",
+            "id": 720998,
+            "resource_url": "https://api.discogs.com/artists/720998"
+        },
+        {
+            "name": "Shavo Odadjian",
+            "anv": "",
+            "join": "",
+            "role": "Art Direction",
+            "tracks": "",
+            "id": 525811,
+            "resource_url": "https://api.discogs.com/artists/525811"
+        },
+        {
+            "name": "Brandy Flower",
+            "anv": "",
+            "join": "",
+            "role": "Artwork [Inside Collage]",
+            "tracks": "",
+            "id": 720998,
+            "resource_url": "https://api.discogs.com/artists/720998"
+        },
+        {
+            "name": "John Dolmayan",
+            "anv": "",
+            "join": "",
+            "role": "Artwork [Inside Collage]",
+            "tracks": "",
+            "id": 525809,
+            "resource_url": "https://api.discogs.com/artists/525809"
+        },
+        {
+            "name": "Shavo Odadjian",
+            "anv": "",
+            "join": "",
+            "role": "Artwork [Label]",
+            "tracks": "",
+            "id": 525811,
+            "resource_url": "https://api.discogs.com/artists/525811"
+        },
+        {
+            "name": "Shavo Odadjian",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 525811,
+            "resource_url": "https://api.discogs.com/artists/525811"
+        },
+        {
+            "name": "Serj Tankian",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 153410,
+            "resource_url": "https://api.discogs.com/artists/153410"
+        },
+        {
+            "name": "Shavo Odadjian",
+            "anv": "",
+            "join": "",
+            "role": "Concept By [Album Art]",
+            "tracks": "",
+            "id": 525811,
+            "resource_url": "https://api.discogs.com/artists/525811"
+        },
+        {
+            "name": "System Of A Down",
+            "anv": "",
+            "join": "",
+            "role": "Concept By [Album Art]",
+            "tracks": "",
+            "id": 85889,
+            "resource_url": "https://api.discogs.com/artists/85889"
+        },
+        {
+            "name": "Lindsay Chase",
+            "anv": "",
+            "join": "",
+            "role": "Coordinator [Production]",
+            "tracks": "",
+            "id": 277675,
+            "resource_url": "https://api.discogs.com/artists/277675"
+        },
+        {
+            "name": "Mark Wakefield",
+            "anv": "",
+            "join": "",
+            "role": "Cover [Art]",
+            "tracks": "",
+            "id": 714875,
+            "resource_url": "https://api.discogs.com/artists/714875"
+        },
+        {
+            "name": "John Dolmayan",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 525809,
+            "resource_url": "https://api.discogs.com/artists/525809"
+        },
+        {
+            "name": "David Schiffman",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 274751,
+            "resource_url": "https://api.discogs.com/artists/274751"
+        },
+        {
+            "name": "Darren Mora",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional]",
+            "tracks": "",
+            "id": 423072,
+            "resource_url": "https://api.discogs.com/artists/423072"
+        },
+        {
+            "name": "Greg Collins",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional]",
+            "tracks": "",
+            "id": 277677,
+            "resource_url": "https://api.discogs.com/artists/277677"
+        },
+        {
+            "name": "Alan Sanderson",
+            "anv": "Al Sanderson",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 367143,
+            "resource_url": "https://api.discogs.com/artists/367143"
+        },
+        {
+            "name": "Darren Mora",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 423072,
+            "resource_url": "https://api.discogs.com/artists/423072"
+        },
+        {
+            "name": "Jim Champagne",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 399500,
+            "resource_url": "https://api.discogs.com/artists/399500"
+        },
+        {
+            "name": "Ryan McCormick",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 466764,
+            "resource_url": "https://api.discogs.com/artists/466764"
+        },
+        {
+            "name": "Rich Balmer",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mixdown Assistant]",
+            "tracks": "",
+            "id": 466763,
+            "resource_url": "https://api.discogs.com/artists/466763"
+        },
+        {
+            "name": "Daron Malakian",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 282929,
+            "resource_url": "https://api.discogs.com/artists/282929"
+        },
+        {
+            "name": "David Benveniste",
+            "anv": "",
+            "join": "",
+            "role": "Management [Worldwide Representation]",
+            "tracks": "",
+            "id": 1717831,
+            "resource_url": "https://api.discogs.com/artists/1717831"
+        },
+        {
+            "name": "Velvet Hammer Music And Management Group",
+            "anv": "",
+            "join": "",
+            "role": "Management [Worldwide Representation]",
+            "tracks": "",
+            "id": 2218662,
+            "resource_url": "https://api.discogs.com/artists/2218662"
+        },
+        {
+            "name": "Eddy Schreyer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 255243,
+            "resource_url": "https://api.discogs.com/artists/255243"
+        },
+        {
+            "name": "Andy Wallace",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 59472,
+            "resource_url": "https://api.discogs.com/artists/59472"
+        },
+        {
+            "name": "Hallie Sirota",
+            "anv": "",
+            "join": "",
+            "role": "Photography By",
+            "tracks": "",
+            "id": 2356957,
+            "resource_url": "https://api.discogs.com/artists/2356957"
+        },
+        {
+            "name": "John Dolmayan",
+            "anv": "",
+            "join": "",
+            "role": "Photography By",
+            "tracks": "",
+            "id": 525809,
+            "resource_url": "https://api.discogs.com/artists/525809"
+        },
+        {
+            "name": "Glen E. Friedman",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Back Cover, Water]",
+            "tracks": "",
+            "id": 225397,
+            "resource_url": "https://api.discogs.com/artists/225397"
+        },
+        {
+            "name": "Martyn Atkins",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Studio]",
+            "tracks": "",
+            "id": 482104,
+            "resource_url": "https://api.discogs.com/artists/482104"
+        },
+        {
+            "name": "Rick Rubin",
+            "anv": "",
+            "join": "",
+            "role": "Piano [Additional]",
+            "tracks": "",
+            "id": 68211,
+            "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+            "name": "Daron Malakian",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 282929,
+            "resource_url": "https://api.discogs.com/artists/282929"
+        },
+        {
+            "name": "Rick Rubin",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 68211,
+            "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+            "name": "Arto Tuncboyaciyan",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Music By",
+            "tracks": "",
+            "id": 308180,
+            "resource_url": "https://api.discogs.com/artists/308180"
+        },
+        {
+            "name": "Serj Tankian",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Keyboards",
+            "tracks": "",
+            "id": 153410,
+            "resource_url": "https://api.discogs.com/artists/153410"
+        },
+        {
+            "name": "Marc Mann",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Additional Strings]",
+            "tracks": "",
+            "id": 425092,
+            "resource_url": "https://api.discogs.com/artists/425092"
+        },
+        {
+            "name": "Serj Tankian",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Strings]",
+            "tracks": "",
+            "id": 153410,
+            "resource_url": "https://api.discogs.com/artists/153410"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https://i.discogs.com/m6SoQlmfroOIPh-b5x_NGIOBeS9UmTSYVGZ7SJTxRI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/m6SoQlmfroOIPh-b5x_NGIOBeS9UmTSYVGZ7SJTxRI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/S4x7_CuYnAotLkgKqsGNP-ga8hAfvwbSuo1LYr1rar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/QHJ7DLuxMJAMd0k5VVgfYDGPjcpqfSmB_kbSp7AlHsM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzQtNTUyMC5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/QHJ7DLuxMJAMd0k5VVgfYDGPjcpqfSmB_kbSp7AlHsM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzQtNTUyMC5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/W4DbWkl9DlyULGhRn8UDWnA-URUy8S75VzWu-n-eRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzQtNTUyMC5qcGVn.jpeg",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/CUIuf3WbLJ10-AKZ5IBpwwGIqrb-h70lQJqZYb6KXaI/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NDYtMTAzNi5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/CUIuf3WbLJ10-AKZ5IBpwwGIqrb-h70lQJqZYb6KXaI/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NDYtMTAzNi5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/AFTI7PKL9DR9TbkmfN1sebaGkMWeKiPB7gsjkWj_a2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NDYtMTAzNi5qcGVn.jpeg",
+            "width": 600,
+            "height": 611
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/n_eHQ26Bgje2wrAuM6ZJMaicc_ugqRbq1n2rjdGg-mM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NjQtOTA1Mi5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/n_eHQ26Bgje2wrAuM6ZJMaicc_ugqRbq1n2rjdGg-mM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NjQtOTA1Mi5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/cfm7OhYnQnHp5EgOLlF5Rh9BF3RZNJ4CajoZwI9Pa68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NjQtOTA1Mi5qcGVn.jpeg",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/y66jOlw5k3sWorxE0Mku7aQor-x_ZFZS6zltdPMFfr0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzYtNzY4Ny5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/y66jOlw5k3sWorxE0Mku7aQor-x_ZFZS6zltdPMFfr0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzYtNzY4Ny5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/KluYWWXKUSm7R1q5TXPX5G5jqVwhcmR4GRsBkTqEoXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/NzYtNzY4Ny5qcGVn.jpeg",
+            "width": 600,
+            "height": 597
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/7HnMfL3npExlThFMDtTeSBy1MGjb9-ghk5ccbQWdSsc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NTQtNjMxMy5qcGVn.jpeg",
+            "resource_url": "https://i.discogs.com/7HnMfL3npExlThFMDtTeSBy1MGjb9-ghk5ccbQWdSsc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NTQtNjMxMy5qcGVn.jpeg",
+            "uri150": "https://i.discogs.com/XetxVsHyLgg_UPuEBE8IssEmpsgaWT2_vZj1gOpqUTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk5/NTQtNjMxMy5qcGVn.jpeg",
+            "width": 600,
+            "height": 594
+        }
+    ],
+    "thumb": "https://i.discogs.com/S4x7_CuYnAotLkgKqsGNP-ga8hAfvwbSuo1LYr1rar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

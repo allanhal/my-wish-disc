@@ -1,0 +1,2726 @@
+{
+    "id": 247822,
+    "status": "Accepted",
+    "year": 1987,
+    "resource_url": "https://api.discogs.com/releases/247822",
+    "uri": "https://www.discogs.com/release/247822-Michael-Jackson-Bad",
+    "artists": [
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        }
+    ],
+    "artists_sort": "Michael Jackson",
+    "labels": [
+        {
+            "name": "Epic",
+            "catno": "EPC 450290 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1005,
+            "resource_url": "https://api.discogs.com/labels/1005"
+        },
+        {
+            "name": "Epic",
+            "catno": "OE 40600",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1005,
+            "resource_url": "https://api.discogs.com/labels/1005"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "MJJ Productions Inc.",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 285412,
+            "resource_url": "https://api.discogs.com/labels/285412"
+        },
+        {
+            "name": "MJJ Productions Inc.",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 285412,
+            "resource_url": "https://api.discogs.com/labels/285412"
+        },
+        {
+            "name": "CBS Inc.",
+            "catno": "",
+            "entity_type": "4",
+            "entity_type_name": "Record Company",
+            "id": 211334,
+            "resource_url": "https://api.discogs.com/labels/211334"
+        },
+        {
+            "name": "CBS Records",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 19936,
+            "resource_url": "https://api.discogs.com/labels/19936"
+        },
+        {
+            "name": "CBS Disques S.A.",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 109547,
+            "resource_url": "https://api.discogs.com/labels/109547"
+        },
+        {
+            "name": "Westlake Audio",
+            "catno": "",
+            "entity_type": "23",
+            "entity_type_name": "Recorded At",
+            "id": 264677,
+            "resource_url": "https://api.discogs.com/labels/264677"
+        },
+        {
+            "name": "Westlake Audio",
+            "catno": "",
+            "entity_type": "27",
+            "entity_type_name": "Mixed At",
+            "id": 264677,
+            "resource_url": "https://api.discogs.com/labels/264677"
+        },
+        {
+            "name": "Quincy Jones Productions",
+            "catno": "",
+            "entity_type": "37",
+            "entity_type_name": "Produced For",
+            "id": 600469,
+            "resource_url": "https://api.discogs.com/labels/600469"
+        },
+        {
+            "name": "MJJ Productions",
+            "catno": "",
+            "entity_type": "37",
+            "entity_type_name": "Produced For",
+            "id": 143537,
+            "resource_url": "https://api.discogs.com/labels/143537"
+        },
+        {
+            "name": "CBS, Haarlem",
+            "catno": "01-450290",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 371454,
+            "resource_url": "https://api.discogs.com/labels/371454"
+        },
+        {
+            "name": "CBS, Haarlem",
+            "catno": "",
+            "entity_type": "19",
+            "entity_type_name": "Printed By",
+            "id": 371454,
+            "resource_url": "https://api.discogs.com/labels/371454"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+            ]
+        }
+    ],
+    "data_quality": "Correct",
+    "community": {
+        "have": 25954,
+        "want": 4533,
+        "rating": {
+            "count": 2501,
+            "average": 4.31
+        },
+        "submitter": {
+            "username": "Parf",
+            "resource_url": "https://api.discogs.com/users/Parf"
+        },
+        "contributors": [
+            {
+                "username": "Parf",
+                "resource_url": "https://api.discogs.com/users/Parf"
+            },
+            {
+                "username": "Spankwa",
+                "resource_url": "https://api.discogs.com/users/Spankwa"
+            },
+            {
+                "username": "Mr.PhonkOne",
+                "resource_url": "https://api.discogs.com/users/Mr.PhonkOne"
+            },
+            {
+                "username": "SirTweak",
+                "resource_url": "https://api.discogs.com/users/SirTweak"
+            },
+            {
+                "username": "elisel",
+                "resource_url": "https://api.discogs.com/users/elisel"
+            },
+            {
+                "username": "Hr.D",
+                "resource_url": "https://api.discogs.com/users/Hr.D"
+            },
+            {
+                "username": "sjcee",
+                "resource_url": "https://api.discogs.com/users/sjcee"
+            },
+            {
+                "username": "MaximusMCX",
+                "resource_url": "https://api.discogs.com/users/MaximusMCX"
+            },
+            {
+                "username": "tompilla",
+                "resource_url": "https://api.discogs.com/users/tompilla"
+            },
+            {
+                "username": "zoundshine",
+                "resource_url": "https://api.discogs.com/users/zoundshine"
+            },
+            {
+                "username": "colosseo",
+                "resource_url": "https://api.discogs.com/users/colosseo"
+            },
+            {
+                "username": "ubongo",
+                "resource_url": "https://api.discogs.com/users/ubongo"
+            },
+            {
+                "username": "vanity6",
+                "resource_url": "https://api.discogs.com/users/vanity6"
+            },
+            {
+                "username": "Morten-Hattestad",
+                "resource_url": "https://api.discogs.com/users/Morten-Hattestad"
+            },
+            {
+                "username": "pirate303",
+                "resource_url": "https://api.discogs.com/users/pirate303"
+            },
+            {
+                "username": "MarkusRaute",
+                "resource_url": "https://api.discogs.com/users/MarkusRaute"
+            },
+            {
+                "username": "hols_der_geier",
+                "resource_url": "https://api.discogs.com/users/hols_der_geier"
+            },
+            {
+                "username": "DiscogsUpdateBot",
+                "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+            },
+            {
+                "username": "Grooveadelic",
+                "resource_url": "https://api.discogs.com/users/Grooveadelic"
+            },
+            {
+                "username": "Lektronikumuz",
+                "resource_url": "https://api.discogs.com/users/Lektronikumuz"
+            },
+            {
+                "username": "gatogato",
+                "resource_url": "https://api.discogs.com/users/gatogato"
+            },
+            {
+                "username": "Willow.the.Wisp",
+                "resource_url": "https://api.discogs.com/users/Willow.the.Wisp"
+            },
+            {
+                "username": "Vox-Records",
+                "resource_url": "https://api.discogs.com/users/Vox-Records"
+            },
+            {
+                "username": "Vexator",
+                "resource_url": "https://api.discogs.com/users/Vexator"
+            },
+            {
+                "username": "shadowboxing",
+                "resource_url": "https://api.discogs.com/users/shadowboxing"
+            },
+            {
+                "username": "jval",
+                "resource_url": "https://api.discogs.com/users/jval"
+            },
+            {
+                "username": "Verbston",
+                "resource_url": "https://api.discogs.com/users/Verbston"
+            },
+            {
+                "username": "Marcellus",
+                "resource_url": "https://api.discogs.com/users/Marcellus"
+            },
+            {
+                "username": "pean1609",
+                "resource_url": "https://api.discogs.com/users/pean1609"
+            },
+            {
+                "username": "chillyboy64",
+                "resource_url": "https://api.discogs.com/users/chillyboy64"
+            },
+            {
+                "username": "djmaxbandera",
+                "resource_url": "https://api.discogs.com/users/djmaxbandera"
+            },
+            {
+                "username": "rekorderi",
+                "resource_url": "https://api.discogs.com/users/rekorderi"
+            },
+            {
+                "username": "Roeivogel",
+                "resource_url": "https://api.discogs.com/users/Roeivogel"
+            },
+            {
+                "username": "jhweijs",
+                "resource_url": "https://api.discogs.com/users/jhweijs"
+            },
+            {
+                "username": "Pu.Baer",
+                "resource_url": "https://api.discogs.com/users/Pu.Baer"
+            },
+            {
+                "username": "WolfRideDeadHorse",
+                "resource_url": "https://api.discogs.com/users/WolfRideDeadHorse"
+            },
+            {
+                "username": "Macfidde",
+                "resource_url": "https://api.discogs.com/users/Macfidde"
+            },
+            {
+                "username": "GodfatherRecords",
+                "resource_url": "https://api.discogs.com/users/GodfatherRecords"
+            },
+            {
+                "username": "Jackany",
+                "resource_url": "https://api.discogs.com/users/Jackany"
+            },
+            {
+                "username": "hippydav",
+                "resource_url": "https://api.discogs.com/users/hippydav"
+            },
+            {
+                "username": "blacknround",
+                "resource_url": "https://api.discogs.com/users/blacknround"
+            },
+            {
+                "username": "dc3stefan",
+                "resource_url": "https://api.discogs.com/users/dc3stefan"
+            },
+            {
+                "username": "home-of-the-record",
+                "resource_url": "https://api.discogs.com/users/home-of-the-record"
+            },
+            {
+                "username": "xr2",
+                "resource_url": "https://api.discogs.com/users/xr2"
+            },
+            {
+                "username": "klonek",
+                "resource_url": "https://api.discogs.com/users/klonek"
+            },
+            {
+                "username": "krall25",
+                "resource_url": "https://api.discogs.com/users/krall25"
+            },
+            {
+                "username": "ichkriegniegenug",
+                "resource_url": "https://api.discogs.com/users/ichkriegniegenug"
+            },
+            {
+                "username": "TheMongrelCat",
+                "resource_url": "https://api.discogs.com/users/TheMongrelCat"
+            },
+            {
+                "username": "Igor_NM",
+                "resource_url": "https://api.discogs.com/users/Igor_NM"
+            },
+            {
+                "username": "zeeuw1956",
+                "resource_url": "https://api.discogs.com/users/zeeuw1956"
+            },
+            {
+                "username": "Urs60",
+                "resource_url": "https://api.discogs.com/users/Urs60"
+            },
+            {
+                "username": "Wilburious",
+                "resource_url": "https://api.discogs.com/users/Wilburious"
+            },
+            {
+                "username": "skeletorbeatsupheman",
+                "resource_url": "https://api.discogs.com/users/skeletorbeatsupheman"
+            },
+            {
+                "username": "Ulysses60",
+                "resource_url": "https://api.discogs.com/users/Ulysses60"
+            },
+            {
+                "username": "Gunny76",
+                "resource_url": "https://api.discogs.com/users/Gunny76"
+            },
+            {
+                "username": "roman.jucker",
+                "resource_url": "https://api.discogs.com/users/roman.jucker"
+            },
+            {
+                "username": "VinylSpinel",
+                "resource_url": "https://api.discogs.com/users/VinylSpinel"
+            },
+            {
+                "username": "BONG14",
+                "resource_url": "https://api.discogs.com/users/BONG14"
+            },
+            {
+                "username": "_jules",
+                "resource_url": "https://api.discogs.com/users/_jules"
+            },
+            {
+                "username": "nihilisten",
+                "resource_url": "https://api.discogs.com/users/nihilisten"
+            },
+            {
+                "username": "thermostat",
+                "resource_url": "https://api.discogs.com/users/thermostat"
+            },
+            {
+                "username": "RJVintage",
+                "resource_url": "https://api.discogs.com/users/RJVintage"
+            },
+            {
+                "username": "Irasshaimase",
+                "resource_url": "https://api.discogs.com/users/Irasshaimase"
+            },
+            {
+                "username": "Phman_plwro",
+                "resource_url": "https://api.discogs.com/users/Phman_plwro"
+            },
+            {
+                "username": "polyakusha",
+                "resource_url": "https://api.discogs.com/users/polyakusha"
+            },
+            {
+                "username": "mrfriso",
+                "resource_url": "https://api.discogs.com/users/mrfriso"
+            },
+            {
+                "username": "cliffonthemoon",
+                "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+            },
+            {
+                "username": "001FirstPress",
+                "resource_url": "https://api.discogs.com/users/001FirstPress"
+            },
+            {
+                "username": "DJCOOLFX",
+                "resource_url": "https://api.discogs.com/users/DJCOOLFX"
+            },
+            {
+                "username": "AudioPhilet",
+                "resource_url": "https://api.discogs.com/users/AudioPhilet"
+            },
+            {
+                "username": "DAVE-I.D.",
+                "resource_url": "https://api.discogs.com/users/DAVE-I.D."
+            },
+            {
+                "username": "Babylon_Music",
+                "resource_url": "https://api.discogs.com/users/Babylon_Music"
+            },
+            {
+                "username": "guido_degreef",
+                "resource_url": "https://api.discogs.com/users/guido_degreef"
+            },
+            {
+                "username": "Flambient",
+                "resource_url": "https://api.discogs.com/users/Flambient"
+            },
+            {
+                "username": "Sluijterplaat",
+                "resource_url": "https://api.discogs.com/users/Sluijterplaat"
+            },
+            {
+                "username": "albundy3622",
+                "resource_url": "https://api.discogs.com/users/albundy3622"
+            },
+            {
+                "username": "MEGICHON",
+                "resource_url": "https://api.discogs.com/users/MEGICHON"
+            },
+            {
+                "username": "Sharafanta",
+                "resource_url": "https://api.discogs.com/users/Sharafanta"
+            },
+            {
+                "username": "Alfa147",
+                "resource_url": "https://api.discogs.com/users/Alfa147"
+            },
+            {
+                "username": "anti-plop",
+                "resource_url": "https://api.discogs.com/users/anti-plop"
+            },
+            {
+                "username": "GMJHD",
+                "resource_url": "https://api.discogs.com/users/GMJHD"
+            },
+            {
+                "username": "Weesper",
+                "resource_url": "https://api.discogs.com/users/Weesper"
+            },
+            {
+                "username": "AustinSimard",
+                "resource_url": "https://api.discogs.com/users/AustinSimard"
+            },
+            {
+                "username": "_DylanBob_",
+                "resource_url": "https://api.discogs.com/users/_DylanBob_"
+            },
+            {
+                "username": "thomas.barten64",
+                "resource_url": "https://api.discogs.com/users/thomas.barten64"
+            },
+            {
+                "username": "Lexx604",
+                "resource_url": "https://api.discogs.com/users/Lexx604"
+            },
+            {
+                "username": "kuklos831",
+                "resource_url": "https://api.discogs.com/users/kuklos831"
+            },
+            {
+                "username": "Babyboef",
+                "resource_url": "https://api.discogs.com/users/Babyboef"
+            },
+            {
+                "username": "VadimGan",
+                "resource_url": "https://api.discogs.com/users/VadimGan"
+            },
+            {
+                "username": "Schnippie",
+                "resource_url": "https://api.discogs.com/users/Schnippie"
+            },
+            {
+                "username": "Same.Old.Me",
+                "resource_url": "https://api.discogs.com/users/Same.Old.Me"
+            },
+            {
+                "username": "GabiB",
+                "resource_url": "https://api.discogs.com/users/GabiB"
+            },
+            {
+                "username": "metalqueen.ch",
+                "resource_url": "https://api.discogs.com/users/metalqueen.ch"
+            },
+            {
+                "username": "lenka.dohnalova",
+                "resource_url": "https://api.discogs.com/users/lenka.dohnalova"
+            },
+            {
+                "username": "karlfourquet",
+                "resource_url": "https://api.discogs.com/users/karlfourquet"
+            },
+            {
+                "username": ".SLCOOLJ.",
+                "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+            },
+            {
+                "username": "BertVinyl56",
+                "resource_url": "https://api.discogs.com/users/BertVinyl56"
+            },
+            {
+                "username": "Andrew_56",
+                "resource_url": "https://api.discogs.com/users/Andrew_56"
+            },
+            {
+                "username": "_Blackthorn_",
+                "resource_url": "https://api.discogs.com/users/_Blackthorn_"
+            }
+        ],
+        "data_quality": "Correct",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2004-04-24T04:40:04-07:00",
+    "date_changed": "2024-03-04T14:32:20-08:00",
+    "num_for_sale": 260,
+    "lowest_price": 3.3,
+    "master_id": 8517,
+    "master_url": "https://api.discogs.com/masters/8517",
+    "title": "Bad",
+    "country": "Europe",
+    "released": "1987-09-01",
+    "notes": "Includes printed inner-sleeve containing lyrics and credits.\n\nIssued with a variety of hype stickers.\n• Some initial copies with a [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/28627673]red sticker[/url] on cover: \"Includes the smash hits 'I Just Can't Stop Loving You' 'Bad' 450290 1\";\n• Some copies with a [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/42970738]black and white sticker[/url] announcing the European tour;\n• Some copies with a [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/42972076]Pepsi sticker[/url], main sponsor of the concert tour;\n• Some copies with a [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/50938746]Club-Edition sticker[/url] over the barcode\n• Some later copies with an [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/50924640]English[/url] or [url=https://www.discogs.com/Michael-Jackson-Bad/release/247822#images/50933079]German sticker[/url] referencing the 1988 movie Moonwalker\n\nTrack A3 (Speed Demon):\n- Race car intro-Dimensional Recording by Spherical Sound, Inc.\n\nTrack B5 (Smooth Criminal):\n- Michael Jackson's heartbeat recording by Dr. Eric Chevlen digitally processed in the Synclavier\n- Holophonics by Hugo Zuccarelli\n- Creaking and heavy breathing by Frank Dileo\n\nProduced for Quincy Jones Productions.\nCo-produced for MJJ Productions.\nRecorded and mixed using the \"Acusonic Recording Process D\".\nSpecial thanks to Diana \"Lady Di\" Douglas\n\n℗ 1987 MJJ Productions Inc.\n© 1987 MJJ Productions Inc. \n\nMade In Holland/Printed in Holland.\n\nCatalog no. 'EPC 450290 1' appears on back cover, labels and spine.\nCatalog no. 'OE 40600' appears on labels in parentheses.\n\n[Runout description]:\nEtched part of each runout: 'PA(B)L-40600-HOL-(n) (x)'.\nSecond part of each runout (starts with 01-) is stamped.\n",
+    "released_formatted": "01 Sep 1987",
+    "identifiers": [
+        {
+            "type": "Barcode",
+            "value": "5099745029013",
+            "description": "Scanned"
+        },
+        {
+            "type": "Barcode",
+            "value": "5 099745 029013",
+            "description": "Text"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC -0199",
+            "description": "On label"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC 0199",
+            "description": "Back cover, bottom right"
+        },
+        {
+            "type": "Rights Society",
+            "value": "BIEM/STEMRA"
+        },
+        {
+            "type": "Price Code",
+            "value": "CB 321",
+            "description": "Encapsulated"
+        },
+        {
+            "type": "Price Code",
+            "value": "58",
+            "description": "Circled"
+        },
+        {
+            "type": "Other",
+            "value": "PX",
+            "description": "Boxed, format code"
+        },
+        {
+            "type": "Other",
+            "value": "Asterisk",
+            "description": "Labels, above cat#"
+        },
+        {
+            "type": "Other",
+            "value": "01-450290-20",
+            "description": "On back- and innersleeve, artwork code, CBS computer#"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "01-450290-1",
+            "description": "Side A label"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "01-450290-2",
+            "description": "Side B label"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 A",
+            "description": "Side A runout, variant 1"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 A",
+            "description": "Side B runout, variant 1"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-450290-3A-1",
+            "description": "Side A runout, variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 01-450290-7B-1",
+            "description": "Side B runout, variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 01-450290-8A-1 A",
+            "description": "Side A runout, variant 3"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 B",
+            "description": "Side B runout, variant 3"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 D",
+            "description": "Side A runout, variant 4"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-450290-2B-1 C",
+            "description": "Side B runout, variant 4"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-1A-1 A",
+            "description": "Side A runout, variant 5"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-1B-1 B",
+            "description": "Side B runout, variant 5"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 B",
+            "description": "Side A runout, variant 6"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 01-450290-4B-1 B",
+            "description": "Side B runout, variant 6"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 01-450290-8A-1 A",
+            "description": "Side A runout, variant 7"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 A",
+            "description": "Side B runout, variant 7"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 E 01-450290-4A-1",
+            "description": "Side A runout, variant 8"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 B 01-450290-1B-1",
+            "description": "Side B runout, variant 8"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-9-A-1 C",
+            "description": "Side A runout, variant 9"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 01-450290-3-B-1 C",
+            "description": "Side B runout, variant 9"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 A 01-450290-1A-1",
+            "description": "Side A runout, variant 10"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 B 01-450290-6B-1",
+            "description": "Side B runout, variant 10"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-2A-1 B",
+            "description": "Side A runout, variant 11"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-450290-2B-1 B",
+            "description": "Side B runout, variant 11"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-45290-9A-1",
+            "description": "Side A runout, variant 12"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 01-45290-8B-1",
+            "description": "Side B runout, variant 12"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 B 01-450290-4A-1",
+            "description": "Side A runout, variant 13"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 A 01-450290-7B-1",
+            "description": "Side B runout, variant 13"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-2A-1",
+            "description": "Side A runout, variant 14"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 01-450290-3B-1",
+            "description": "Side B runout, variant 14"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-1A-1 A",
+            "description": "Side A runout, variant 15"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-1B-1 A",
+            "description": "Side B runout, variant 15"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 B 01-450290-2A-1",
+            "description": "Side A runout, variant 16"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 A 01-450290-4B-1",
+            "description": "Side B runout, variant 16"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 C 01-450290-1A-1",
+            "description": "Side A runout, variant 17"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 A 01-450290-3B-1",
+            "description": "Side B runout, variant 17"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 C 01-450290-1A-1",
+            "description": "Side A runout, variant 18"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 B 01-450290-5B-1",
+            "description": "Side B runout, variant 18"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-3A-1 G",
+            "description": "Side A runout, variant 19"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 A 01-450290-3B-1",
+            "description": "Side B runout, variant 19"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-2A-1 B",
+            "description": "Side A runout, variant 20"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 B",
+            "description": "Side B runout, variant 20"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-450290-3A-1 A",
+            "description": "Side A runout, variant 21"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 01-450290-4B-1 B",
+            "description": "Side B runout, variant 21"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01 H 450290-5A-1",
+            "description": "Side A runout, variant 22"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01 D 450290-2B-1",
+            "description": "Side B runout, variant 22"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-450290-6A-1",
+            "description": "Side A runout, variant 23"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-45290-2B-1",
+            "description": "Side B runout, variant 23"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 D 01-450290-6A-1",
+            "description": "Side A runout, variant 24"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 C 01-45290-8B-1",
+            "description": "Side B runout, variant 24"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 A",
+            "description": "Side A runout, variant 25"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-450290-6B-1 A",
+            "description": "Side B runout, variant 25"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 01-450290-5A-4 A-1",
+            "description": "Side A runout, variant 26"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 B-1",
+            "description": "Side B runout, variant 26"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 D",
+            "description": "Side A runout, variant 27"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 01-450290-4B-1 B",
+            "description": "Side B runout, variant 27"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-2A-1 A",
+            "description": "Side A runout, variant 28"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-4 01-450290-8B-1 C",
+            "description": "Side B runout, variant 28"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-450290-3A-1 C",
+            "description": "Side A runout, variant 29"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-450290-6B-1 B",
+            "description": "Side B runout, variant 29"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 B 01-450290-7A-1",
+            "description": "Side A runout, variant 30"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 B 01-450290-2B-1",
+            "description": "Side B runout, variant 30"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 A 01-450290-2A-1",
+            "description": "Side A runout, variant 31"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 B 01-450290-2B-1",
+            "description": "Side B runout, variant 31"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-5A-1 B",
+            "description": "Side A runout, variant 32"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-6B-1 B",
+            "description": "Side B runout, variant 32"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 01-450290-8A-1 B",
+            "description": "Side A runout, variant 33"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 01-450290-7B-1 A",
+            "description": "Side B runout, variant 33"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 A 01-450290-2A-1",
+            "description": "Side A runout, variant 34"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 C 01-450290-2B-1",
+            "description": "Side B runout, variant 34"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 A 01-450290-6A-1",
+            "description": "Side A runout, variant 35"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 C 01-450290-2B-1",
+            "description": "Side B runout, variant 35"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-1A-1 B",
+            "description": "Side A runout, variant 36"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 A",
+            "description": "Side B runout, variant 36"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 B 01-450290-4A-1",
+            "description": "Side A runout, variant 37"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 A 01-450290-2B-1",
+            "description": "Side B runout, variant 37"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40060-HOL-1 C 01-450290-5A-1",
+            "description": "Side A runout, variant 38"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40060-HOL-4 B 01-450290-4B-1",
+            "description": "Side B runout, variant 38"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-4 E 01-450290-4A-1",
+            "description": "Side A runout, variant 39"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 C 01-450290-2B-1",
+            "description": "Side B runout, variant 39"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-2 01-450290-2A-1 A",
+            "description": "Side A runout, variant 40"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-1 01-450290-5B-1 A",
+            "description": "Side B runout, variant 40"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-1 01-450290-1A-1 A",
+            "description": "Side A runout, variant 41"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-3 01-450290-7B-1 A",
+            "description": "Side B runout, variant 41"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PAL-40600-HOL-3 01-450290-3A-1 E",
+            "description": "Side A runout, variant 42"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "PBL-40600-HOL-2 01-450290-6B-1 B",
+            "description": "Side B runout, variant 42"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=ZYYn2XKXG6g",
+            "title": "Michael Jackson - Bad 25 [LP Full Album]",
+            "description": "Michael Jackson – Bad 25\n\nSello: Epic – 88725401051\nFormato: Vinilo, LP, Album, Picture Disc, Reissue, Stereo\nPaís: Europe\nPublicado: 14 sept 2012\nGénero: Electronic, Pop\nEstilo: Rhythm & Blues, Pop Rock, Synth-pop, Ballad, Disco\n\nhttps://www.discogs.com/",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=-DlMoJ2V6uk",
+            "title": "Bad (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nBad (2012 Remaster) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nGuitar: David Williams\nArranger: Christopher Currell\nPercussion: Paulinho Da Costa\nArranger, Producer: Quincy Jones\nDrums",
+            "duration": 248,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=VtM-rHPwN7o",
+            "title": "The Way You Make Me Feel (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nThe Way You Make Me Feel (2012 Remaster) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nDrums: John Robinson\nGuitar: Eric Gale\nGuitar: David Williams\nSaxophone: Kim Hutchcroft\nProgrammer, ",
+            "duration": 299,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=MCE5MfEnVXw",
+            "title": "Speed Demon (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nSpeed Demon (2012 Remaster) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nGuitar: Bill Boltrell\nGuitar: David Williams\nArranger, Producer: Quincy Jones\nPercussion: Paulhino da Costa\nDrums",
+            "duration": 243,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=7UoONw5ABpE",
+            "title": "Liberian Girl (2012 Remastered Version)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nLiberian Girl (2012 Remastered Version) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nPercussion: Paulhino da Costa\nArranger, Producer: Quincy Jones\nAssociated  Performer, Synthesizer, Ar",
+            "duration": 233,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=GeAlVg5uehc",
+            "title": "Another Part of Me (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nAnother Part of Me (2012 Remaster) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nGuitar: Paul Jackson Jr.\nGuitar: David Williams\nSynthesizer, Arranger: John Barnes\nSynthesizer: Rhett Lawr",
+            "duration": 235,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=8gqMRlN6mAA",
+            "title": "Man in the Mirror (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nMan in the Mirror (2012 Remaster) · Michael Jackson\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nBackground  Vocal, Composer, Lyricist: Siedah Garrett\nSynthesizer, Arranger, Composer, Lyricist, Performanc",
+            "duration": 319,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=P4bsgkiSGd4",
+            "title": "I Just Can't Stop Loving You (2012 Remaster)",
+            "description": "Provided to YouTube by Epic/Legacy\n\nI Just Can't Stop Loving You (2012 Remaster) · Michael Jackson · Siedah Garrett\n\nBad\n\n℗ 1987 MJJ Productions Inc.\n\nReleased on: 2012-09-17\n\nAssociated  Performer: Michael Jackson feat. Siedah Garrett\nArranger, Performan",
+            "duration": 252,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+    ],
+    "styles": [
+        "Pop Rock",
+        "Soul",
+        "Funk",
+        "Dance-pop",
+        "Synth-pop",
+        "Contemporary R&B"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Bad",
+            "extraartists": [
+                {
+                    "name": "Douglas Getschal",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 423236,
+                    "resource_url": "https://api.discogs.com/artists/423236"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Jimmy Smith",
+                    "anv": "",
+                    "join": "",
+                    "role": "Organ [Hammond]",
+                    "tracks": "",
+                    "id": 29981,
+                    "resource_url": "https://api.discogs.com/artists/29981"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Solo], Soloist",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier], Keyboards",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:06"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "The Way You Make Me Feel",
+            "extraartists": [
+                {
+                    "name": "Douglas Getschal",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 423236,
+                    "resource_url": "https://api.discogs.com/artists/423236"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Finger Snaps",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Finger Snaps",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Eric Gale",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 135850,
+                    "resource_url": "https://api.discogs.com/artists/135850"
+                },
+                {
+                    "name": "Ollie Brown",
+                    "anv": "Ollie E. Brown",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 90951,
+                    "resource_url": "https://api.discogs.com/artists/90951"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:58"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Speed Demon",
+            "extraartists": [
+                {
+                    "name": "Douglas Getschal",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 423236,
+                    "resource_url": "https://api.discogs.com/artists/423236"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "Miko Brando",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 818784,
+                    "resource_url": "https://api.discogs.com/artists/818784"
+                },
+                {
+                    "name": "Ollie Brown",
+                    "anv": "Ollie E. Brown",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 90951,
+                    "resource_url": "https://api.discogs.com/artists/90951"
+                },
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier], Effects",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:01"
+        },
+        {
+            "position": "A4",
+            "type_": "track",
+            "title": "Liberian Girl",
+            "extraartists": [
+                {
+                    "name": "Douglas Getschal",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 423236,
+                    "resource_url": "https://api.discogs.com/artists/423236"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:52"
+        },
+        {
+            "position": "A5",
+            "type_": "track",
+            "title": "Just Good Friends",
+            "extraartists": [
+                {
+                    "name": "Cornelius Mims",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 253979,
+                    "resource_url": "https://api.discogs.com/artists/253979"
+                },
+                {
+                    "name": "Bruce Swedien",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 101354,
+                    "resource_url": "https://api.discogs.com/artists/101354"
+                },
+                {
+                    "name": "Humberto Gatica",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 176998,
+                    "resource_url": "https://api.discogs.com/artists/176998"
+                },
+                {
+                    "name": "Ollie Brown",
+                    "anv": "Ollie E. Brown",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 90951,
+                    "resource_url": "https://api.discogs.com/artists/90951"
+                },
+                {
+                    "name": "Michael Landau",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 253974,
+                    "resource_url": "https://api.discogs.com/artists/253974"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Rhett Lawrence",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 129238,
+                    "resource_url": "https://api.discogs.com/artists/129238"
+                },
+                {
+                    "name": "Stevie Wonder",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Solo], Soloist",
+                    "tracks": "",
+                    "id": 18956,
+                    "resource_url": "https://api.discogs.com/artists/18956"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Stevie Wonder",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals, Guest",
+                    "tracks": "",
+                    "id": 18956,
+                    "resource_url": "https://api.discogs.com/artists/18956"
+                },
+                {
+                    "name": "Graham Lyle",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 268082,
+                    "resource_url": "https://api.discogs.com/artists/268082"
+                },
+                {
+                    "name": "Terry Britten",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 192110,
+                    "resource_url": "https://api.discogs.com/artists/192110"
+                }
+            ],
+            "duration": "4:05"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Another Part Of Me",
+            "extraartists": [
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Paul Jackson Jr.",
+                    "anv": "Paul Jackson, Jr.",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 266403,
+                    "resource_url": "https://api.discogs.com/artists/266403"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Rhett Lawrence",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 129238,
+                    "resource_url": "https://api.discogs.com/artists/129238"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:53"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Man In The Mirror",
+            "extraartists": [
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals, Guest",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                },
+                {
+                    "name": "The Andraé Crouch Choir",
+                    "anv": "The Andrae Crouch Choir",
+                    "join": "",
+                    "role": "Backing Vocals, Guest",
+                    "tracks": "",
+                    "id": 238706,
+                    "resource_url": "https://api.discogs.com/artists/238706"
+                },
+                {
+                    "name": "The Winans",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals, Guest",
+                    "tracks": "",
+                    "id": 105452,
+                    "resource_url": "https://api.discogs.com/artists/105452"
+                },
+                {
+                    "name": "Dann Huff",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 271408,
+                    "resource_url": "https://api.discogs.com/artists/271408"
+                },
+                {
+                    "name": "Ollie Brown",
+                    "anv": "Ollie E. Brown",
+                    "join": "",
+                    "role": "Handclaps",
+                    "tracks": "",
+                    "id": 90951,
+                    "resource_url": "https://api.discogs.com/artists/90951"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Glen Ballard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 136470,
+                    "resource_url": "https://api.discogs.com/artists/136470"
+                },
+                {
+                    "name": "Randy Kerber",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 356228,
+                    "resource_url": "https://api.discogs.com/artists/356228"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Glen Ballard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 136470,
+                    "resource_url": "https://api.discogs.com/artists/136470"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                }
+            ],
+            "duration": "5:18"
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "I Just Can't Stop Loving You",
+            "extraartists": [
+                {
+                    "name": "Nathan East",
+                    "anv": "",
+                    "join": "",
+                    "role": "Bass",
+                    "tracks": "",
+                    "id": 215920,
+                    "resource_url": "https://api.discogs.com/artists/215920"
+                },
+                {
+                    "name": "Leon Ndugu Chancler",
+                    "anv": "Ndugu Chancier",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 192112,
+                    "resource_url": "https://api.discogs.com/artists/192112"
+                },
+                {
+                    "name": "Dann Huff",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 271408,
+                    "resource_url": "https://api.discogs.com/artists/271408"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Piano",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals, Guest",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:23"
+        },
+        {
+            "position": "B4",
+            "type_": "track",
+            "title": "Dirty Diana",
+            "extraartists": [
+                {
+                    "name": "Douglas Getschal",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drum Programming",
+                    "tracks": "",
+                    "id": 423236,
+                    "resource_url": "https://api.discogs.com/artists/423236"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Paul Jackson Jr.",
+                    "anv": "Paul Jackson, Jr.",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 266403,
+                    "resource_url": "https://api.discogs.com/artists/266403"
+                },
+                {
+                    "name": "Steve Stevens",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar [Solo], Soloist",
+                    "tracks": "",
+                    "id": 165272,
+                    "resource_url": "https://api.discogs.com/artists/165272"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Randy Waldman",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 321196,
+                    "resource_url": "https://api.discogs.com/artists/321196"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:52"
+        },
+        {
+            "position": "B5",
+            "type_": "track",
+            "title": "Smooth Criminal",
+            "extraartists": [
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "Bruce Swedien",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 101354,
+                    "resource_url": "https://api.discogs.com/artists/101354"
+                },
+                {
+                    "name": "John Robinson (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 310251,
+                    "resource_url": "https://api.discogs.com/artists/310251"
+                },
+                {
+                    "name": "David Williams (4)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 457690,
+                    "resource_url": "https://api.discogs.com/artists/457690"
+                },
+                {
+                    "name": "Kim Hutchcroft",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 260573,
+                    "resource_url": "https://api.discogs.com/artists/260573"
+                },
+                {
+                    "name": "Larry Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 229176,
+                    "resource_url": "https://api.discogs.com/artists/229176"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Synclavier]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Gary Grant",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 271409,
+                    "resource_url": "https://api.discogs.com/artists/271409"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Vocals, Backing Vocals, Handclaps",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:16"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Lane/Donald",
+            "anv": "Tony Lane/Nancy Donald",
+            "join": "",
+            "role": "Art Direction",
+            "tracks": "",
+            "id": 1870889,
+            "resource_url": "https://api.discogs.com/artists/1870889"
+        },
+        {
+            "name": "Jolie Levine",
+            "anv": "",
+            "join": "",
+            "role": "Contractor",
+            "tracks": "",
+            "id": 974097,
+            "resource_url": "https://api.discogs.com/artists/974097"
+        },
+        {
+            "name": "Craig Johnson",
+            "anv": "",
+            "join": "",
+            "role": "Edited By [Technical Director]",
+            "tracks": "",
+            "id": 764394,
+            "resource_url": "https://api.discogs.com/artists/764394"
+        },
+        {
+            "name": "Humberto Gatica",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional]",
+            "tracks": "",
+            "id": 176998,
+            "resource_url": "https://api.discogs.com/artists/176998"
+        },
+        {
+            "name": "Brad Sundberg",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 1012020,
+            "resource_url": "https://api.discogs.com/artists/1012020"
+        },
+        {
+            "name": "Claudio Ordenes",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 553862,
+            "resource_url": "https://api.discogs.com/artists/553862"
+        },
+        {
+            "name": "Debbie Johnson (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 644334,
+            "resource_url": "https://api.discogs.com/artists/644334"
+        },
+        {
+            "name": "Laura Livingston",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 597894,
+            "resource_url": "https://api.discogs.com/artists/597894"
+        },
+        {
+            "name": "Jeffrey Spear",
+            "anv": "",
+            "join": "",
+            "role": "Lettering [\"Bad\" Lettering]",
+            "tracks": "",
+            "id": 1851700,
+            "resource_url": "https://api.discogs.com/artists/1851700"
+        },
+        {
+            "name": "Bernie Grundman",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 307942,
+            "resource_url": "https://api.discogs.com/artists/307942"
+        },
+        {
+            "name": "Greg Goreman",
+            "anv": "Greg Gorman",
+            "join": "",
+            "role": "Photography By [Back Cover]",
+            "tracks": "",
+            "id": 2677718,
+            "resource_url": "https://api.discogs.com/artists/2677718"
+        },
+        {
+            "name": "Sam Emerson",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Front Cover]",
+            "tracks": "",
+            "id": 2082959,
+            "resource_url": "https://api.discogs.com/artists/2082959"
+        },
+        {
+            "name": "Matthew Rolston",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Inside Spread]",
+            "tracks": "",
+            "id": 442016,
+            "resource_url": "https://api.discogs.com/artists/442016"
+        },
+        {
+            "name": "Quincy Jones",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 17546,
+            "resource_url": "https://api.discogs.com/artists/17546"
+        },
+        {
+            "name": "Bill Bottrell",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 27468,
+            "resource_url": "https://api.discogs.com/artists/27468"
+        },
+        {
+            "name": "Brian Malouf",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 99881,
+            "resource_url": "https://api.discogs.com/artists/99881"
+        },
+        {
+            "name": "Claudio Ordenes",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 553862,
+            "resource_url": "https://api.discogs.com/artists/553862"
+        },
+        {
+            "name": "Craig Johnson",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 764394,
+            "resource_url": "https://api.discogs.com/artists/764394"
+        },
+        {
+            "name": "Gary Olazabal",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 334580,
+            "resource_url": "https://api.discogs.com/artists/334580"
+        },
+        {
+            "name": "Matt Forger",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional]",
+            "tracks": "",
+            "id": 198516,
+            "resource_url": "https://api.discogs.com/artists/198516"
+        },
+        {
+            "name": "Bruce Swedien",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Mixed By",
+            "tracks": "",
+            "id": 101354,
+            "resource_url": "https://api.discogs.com/artists/101354"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https://i.discogs.com/X6yjDt4r8KE4ZSQMe2tNPBdqSqN2nsfsXtSUj2hqnlk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/X6yjDt4r8KE4ZSQMe2tNPBdqSqN2nsfsXtSUj2hqnlk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/FZj0IWfaVe-4ptoYi70dnwDW7TIfpF2-fbLz0FVHseE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+            "width": 600,
+            "height": 605
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/JrpCez7Fc2TO0bU2WHkEETLFopy9d-AKAEPkrsmH7Kw/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTY4/LTE1NDAuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/JrpCez7Fc2TO0bU2WHkEETLFopy9d-AKAEPkrsmH7Kw/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTY4/LTE1NDAuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/QYjVRNlj8aodlYRTCVpj66i2Bsn5OMbvNVuXnhf4knk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTY4/LTE1NDAuanBlZw.jpeg",
+            "width": 600,
+            "height": 569
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/R_3owkj3UuHaAnxm7NQrZxMRQ8XUFDGRXLoqVA_Y5Bs/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI1/LTg0ODQuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/R_3owkj3UuHaAnxm7NQrZxMRQ8XUFDGRXLoqVA_Y5Bs/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI1/LTg0ODQuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/uSBOlcuctr7YCo81vX2o-Rc9AIYdbeX1NRt_mPabHho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI1/LTg0ODQuanBlZw.jpeg",
+            "width": 600,
+            "height": 294
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/lDxgdEXORVz5y8FE9QaXlqq1B47Je9FcGJHy6MogVfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQ3/LTMxNDEuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/lDxgdEXORVz5y8FE9QaXlqq1B47Je9FcGJHy6MogVfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQ3/LTMxNDEuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/AybEOv-EOI1-tMESUWvm1SW66E29NoU6UrvAkvWlZCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQ3/LTMxNDEuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/-9Y3rnTHNw-W5h0AgSwSIU7IY0-5UI4hyFynGPKVAhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQy/LTk2NzEuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/-9Y3rnTHNw-W5h0AgSwSIU7IY0-5UI4hyFynGPKVAhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQy/LTk2NzEuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/iRbohoAGOQI2LPBVd-zs4oew6ERXh4_XJXJAW9FBcL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTU5Mjg5NTQy/LTk2NzEuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/zq8hcrPfyy09fLTg5O3E8pOY3Jh483-TfgyXzBC8NHI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MTU1/LTU5MTkuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/zq8hcrPfyy09fLTg5O3E8pOY3Jh483-TfgyXzBC8NHI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MTU1/LTU5MTkuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/-Bt3Y4qqejwajCJ-HTrqvO0nG4zVymIdUk2Z0ez-_dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MTU1/LTU5MTkuanBlZw.jpeg",
+            "width": 600,
+            "height": 604
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/Z8Lsk2KWQYBiBmel6Vmr0uGIQ_dQKUl2egYQzI-flWk/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM2/LTg5NDYuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/Z8Lsk2KWQYBiBmel6Vmr0uGIQ_dQKUl2egYQzI-flWk/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM2/LTg5NDYuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/Y0Go5d7UJcklSGJVS2EvsEwY44aZrWr0h-CLPPis7zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM2/LTg5NDYuanBlZw.jpeg",
+            "width": 600,
+            "height": 449
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/uNEXwb8ejfvKSme9GacmJ4FRlSz34hVqq27f49AGrF0/rs:fit/g:sm/q:90/h:138/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM4/LTY3MTIuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/uNEXwb8ejfvKSme9GacmJ4FRlSz34hVqq27f49AGrF0/rs:fit/g:sm/q:90/h:138/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM4/LTY3MTIuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/0vfKi6v9s1I7gBgDNdDLbA5Fsb4DC5LlPI3-SNMIG3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjM4/LTY3MTIuanBlZw.jpeg",
+            "width": 600,
+            "height": 138
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/SdrXjSwS7uS-huqYCmqAn8UtMhTJMH9IGRDn1Sz8EVE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjAz/LTg3MzYuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/SdrXjSwS7uS-huqYCmqAn8UtMhTJMH9IGRDn1Sz8EVE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjAz/LTg3MzYuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/RokmnA9Fvcr0o1IhZKBMg1sqQCoLwoukgDte4OV3WpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjAz/LTg3MzYuanBlZw.jpeg",
+            "width": 600,
+            "height": 595
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/Og117eWRebgrxYaxeBBYrZ5n8x0FSkkX8Msd1IeVZMU/rs:fit/g:sm/q:90/h:1298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTM3NDYuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/Og117eWRebgrxYaxeBBYrZ5n8x0FSkkX8Msd1IeVZMU/rs:fit/g:sm/q:90/h:1298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTM3NDYuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/6k3oOIcarcvNRBhrmOIiTRur8R6Fa9xTIwsc2K9WEsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTM3NDYuanBlZw.jpeg",
+            "width": 600,
+            "height": 1298
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/4BuS97DnpMEjjt3k7X_FY3RfzV4sg9eJXGVG_WPI3j0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjEw/LTYwOTIuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/4BuS97DnpMEjjt3k7X_FY3RfzV4sg9eJXGVG_WPI3j0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjEw/LTYwOTIuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/qJQWzknjO8eRGo4mh_cpd1HI9DqF5aSb7GR7SoEQ_5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjEw/LTYwOTIuanBlZw.jpeg",
+            "width": 600,
+            "height": 598
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/cFfT-PoLa_-Dc4ewczct3oKzKlJKxYkchmixLJaw2OU/rs:fit/g:sm/q:90/h:1298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTc2NTQuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/cFfT-PoLa_-Dc4ewczct3oKzKlJKxYkchmixLJaw2OU/rs:fit/g:sm/q:90/h:1298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTc2NTQuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/2w-Tyr5pPxN_dvLhAhrnNFUsEiAC5IhCuXzEkkRW1Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY0/LTc2NTQuanBlZw.jpeg",
+            "width": 600,
+            "height": 1298
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/-W-w4V-Y1kJQEBznZfLFyyF78WZGgp6WXDZEh02PsgI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjIz/LTM5MjYuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/-W-w4V-Y1kJQEBznZfLFyyF78WZGgp6WXDZEh02PsgI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjIz/LTM5MjYuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/lQPfaecSjw34KjFNnMRlguq5W6g0EwZy3xneQIDcdl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjIz/LTM5MjYuanBlZw.jpeg",
+            "width": 600,
+            "height": 586
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/_NNE_UP2qxp5A_Ui2n_Z1Tm6LoUCGa2wVoKz34pchE0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjMy/LTg0OTQuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/_NNE_UP2qxp5A_Ui2n_Z1Tm6LoUCGa2wVoKz34pchE0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjMy/LTg0OTQuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/EUyiBEV0Aj3Egf6iZKr0it2ULbnqWWqI5bNdxAC5AZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTcwOTk4MjMy/LTg0OTQuanBlZw.jpeg",
+            "width": 600,
+            "height": 595
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/LcColjcjbLP_HJ5nTW8P8W8yI1FVAYCCWqxUri1p8Sk/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY2/LTczNTMucG5n.jpeg",
+            "resource_url": "https://i.discogs.com/LcColjcjbLP_HJ5nTW8P8W8yI1FVAYCCWqxUri1p8Sk/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY2/LTczNTMucG5n.jpeg",
+            "uri150": "https://i.discogs.com/Dx0rDQIihkJDiuTYIfSlRkgGvy-SiixGa60QjxSKSn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNjY2/LTczNTMucG5n.jpeg",
+            "width": 600,
+            "height": 543
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/TCsAux4-8eRB3mE40OhnzLyVMPJO059VONnRon9GJQo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNDQ1OTQ5Mjcw/LTIxMTYuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/TCsAux4-8eRB3mE40OhnzLyVMPJO059VONnRon9GJQo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNDQ1OTQ5Mjcw/LTIxMTYuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/KiNGH9wvdOR-d83oZXnyIonPoB-nxSL2ZlA8HjlC23s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNDQ1OTQ5Mjcw/LTIxMTYuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/jQKS1_WyaZJ7E4GVV7glBqSQGVCEUAfKK4ex_HpxmRM/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNzM2/LTUxNTMucG5n.jpeg",
+            "resource_url": "https://i.discogs.com/jQKS1_WyaZJ7E4GVV7glBqSQGVCEUAfKK4ex_HpxmRM/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNzM2/LTUxNTMucG5n.jpeg",
+            "uri150": "https://i.discogs.com/iaP8QPu2K6H2ETuXoXEvK7LVEDzXO_ujIRSu9uGv-8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjgyODQyNzM2/LTUxNTMucG5n.jpeg",
+            "width": 600,
+            "height": 516
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/pocMqoh_Y9sc0AYw50CSpNBXFtI_GDVl_TmS-wtq62o/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjYzNTI4MTI1/LTgyMzMuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/pocMqoh_Y9sc0AYw50CSpNBXFtI_GDVl_TmS-wtq62o/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjYzNTI4MTI1/LTgyMzMuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/OtgMLeeoujXJu20OO8IgFc-m3B-mjoOldf4fD0iYM5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjYzNTI4MTI1/LTgyMzMuanBlZw.jpeg",
+            "width": 600,
+            "height": 379
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/lBD4IoUoX5vHU89ZaXa0jxbzdq3KSzRB88-XH8xRVoo/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTc0/LTk0MTQuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/lBD4IoUoX5vHU89ZaXa0jxbzdq3KSzRB88-XH8xRVoo/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTc0/LTk0MTQuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/M0i3EEu-J_2mp1DJc0jv9zl-2n_6luA5cMplPt6X74A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNjA3OTYyOTc0/LTk0MTQuanBlZw.jpeg",
+            "width": 600,
+            "height": 462
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/fkitFBcRIhypxwEH_ERxJRyaTI9B3X3LYb7165X50Wk/rs:fit/g:sm/q:90/h:789/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNzA2NDQyMjQ4/LTE0ODAuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/fkitFBcRIhypxwEH_ERxJRyaTI9B3X3LYb7165X50Wk/rs:fit/g:sm/q:90/h:789/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNzA2NDQyMjQ4/LTE0ODAuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/gmpZz3ddJyKogUPBWtC79chi_hZZiNeKTK4tKqoe2dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNzA2NDQyMjQ4/LTE0ODAuanBlZw.jpeg",
+            "width": 600,
+            "height": 789
+        }
+    ],
+    "thumb": "https://i.discogs.com/FZj0IWfaVe-4ptoYi70dnwDW7TIfpF2-fbLz0FVHseE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

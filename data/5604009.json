@@ -1,0 +1,634 @@
+{
+    "id": 5604009,
+    "status": "Accepted",
+    "year": 1997,
+    "resource_url": "https://api.discogs.com/releases/5604009",
+    "uri": "https://www.discogs.com/release/5604009-Racionais-MCs-Sobrevivendo-No-Inferno",
+    "artists": [
+      {
+        "name": "Racionais MC's",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 131139,
+        "resource_url": "https://api.discogs.com/artists/131139"
+      }
+    ],
+    "artists_sort": "Racionais MC's",
+    "labels": [
+      {
+        "name": "Cosa Nostra",
+        "catno": "RALP 01",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 15567,
+        "resource_url": "https://api.discogs.com/labels/15567"
+      },
+      {
+        "name": "Cosa Nostra",
+        "catno": "RALP 02",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 15567,
+        "resource_url": "https://api.discogs.com/labels/15567"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Paralelo's Assessoria Fonográfica Ltda.",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 818073,
+        "resource_url": "https://api.discogs.com/labels/818073"
+      },
+      {
+        "name": "Com. de Grav. Ediç. e Confecções Racionais MC's Ltda.",
+        "catno": "",
+        "entity_type": "38",
+        "entity_type_name": "Manufactured For",
+        "id": 1661091,
+        "resource_url": "https://api.discogs.com/labels/1661091"
+      },
+      {
+        "name": "Zambia Fonográfica Ltda.",
+        "catno": "",
+        "entity_type": "9",
+        "entity_type_name": "Distributed By",
+        "id": 1661090,
+        "resource_url": "https://api.discogs.com/labels/1661090"
+      },
+      {
+        "name": "Stúdio The Hit",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1187006,
+        "resource_url": "https://api.discogs.com/labels/1187006"
+      },
+      {
+        "name": "Atelier Stúdio",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1187007,
+        "resource_url": "https://api.discogs.com/labels/1187007"
+      },
+      {
+        "name": "Estúdio Mundo Musical",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 1187008,
+        "resource_url": "https://api.discogs.com/labels/1187008"
+      },
+      {
+        "name": "Atelier Stúdio",
+        "catno": "",
+        "entity_type": "27",
+        "entity_type_name": "Mixed At",
+        "id": 1187007,
+        "resource_url": "https://api.discogs.com/labels/1187007"
+      },
+      {
+        "name": "Mosh Studio",
+        "catno": "",
+        "entity_type": "27",
+        "entity_type_name": "Mixed At",
+        "id": 404928,
+        "resource_url": "https://api.discogs.com/labels/404928"
+      },
+      {
+        "name": "Musisom Editora Musical Ltda.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 286098,
+        "resource_url": "https://api.discogs.com/labels/286098"
+      },
+      {
+        "name": "Racionais MC's Ltda.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 1818385,
+        "resource_url": "https://api.discogs.com/labels/1818385"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "text": "Gatefold",
+        "descriptions": [
+          "LP",
+          "Album"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 131,
+      "want": 521,
+      "rating": {
+        "count": 31,
+        "average": 4.61
+      },
+      "submitter": {
+        "username": "lovinyl_br",
+        "resource_url": "https://api.discogs.com/users/lovinyl_br"
+      },
+      "contributors": [
+        {
+          "username": "lovinyl_br",
+          "resource_url": "https://api.discogs.com/users/lovinyl_br"
+        },
+        {
+          "username": "Dub-Techno",
+          "resource_url": "https://api.discogs.com/users/Dub-Techno"
+        },
+        {
+          "username": "vkubrick",
+          "resource_url": "https://api.discogs.com/users/vkubrick"
+        },
+        {
+          "username": "lapcosta",
+          "resource_url": "https://api.discogs.com/users/lapcosta"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 2,
+    "date_added": "2014-04-17T11:37:10-07:00",
+    "date_changed": "2020-08-03T19:55:51-07:00",
+    "num_for_sale": 2,
+    "lowest_price": 259.6,
+    "master_id": 719701,
+    "master_url": "https://api.discogs.com/masters/719701",
+    "title": "Sobrevivendo No Inferno",
+    "country": "Brazil",
+    "released": "1997-10-00",
+    "notes": "First pressing in gatefold cover.\n\nRecorded at The Hit, except \"Jorge Da Capadócia\" Recorded and Mixed at Atelier Stúdio.\nVocals Recorded at Estúdio Mundo Musical\nMixed at Mosh Studio and Atelier Stúdio\n\nPublishing:\nTrack A1: Musisom Editora Ltda.\nTracks A2 to D3: Racionais MC's Ltda.",
+    "released_formatted": "Oct 1997",
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "7 898073 398017",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "7898073398017",
+        "description": "Scanned"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=WZcFdjPZw18",
+        "title": "Racionais Mc's - Sobrevivendo No Inferno [CD Completo]",
+        "description": "Baixe o disco no RND:  http://goo.gl/hGi7UV \n\n00:00:00 - Jorge da Capadócia\n00:02:48 - Gênesis\n00:03:09 - Capítulo 4 Versículo 3\n00:11:13 - Tô Ouvindo Alguém me Chamar\n00:22:28 - Rapaz Comum\n00:28:46 - (instrumental)\n00:29:17 - Diário de um Detento",
+        "duration": 4261,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=iEZK28Qd8nU",
+        "title": "Fórmula Mágica da Paz - Instrumental em Vinil",
+        "description": "Artista: Racionais MC's\nÁlbum: Sobrevivendo no Inferno\nData de lançamento: 1997\nGênero: Rap\nGravadora: Cosa Nostra\nLetrista: Mano Brown\n\nBase musical:\nKL Jay, Criou a Base para a Letra da Canção a Partir de Attitudes, do Grupo de R&B The Bar-Kays.",
+        "duration": 636,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2LQSFLTiwS8",
+        "title": "Capítulo 4 Versículo 3 - Racionais Mcs",
+        "description": "Capítulo 4 Versículo 3 - Racionais Mcs",
+        "duration": 487,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=goICQUk6NYk",
+        "title": "Jorge da capadócia - Racionais Mcs",
+        "description": "Jorge da capadócia - Racionais Mcs",
+        "duration": 170,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6bPjRwzl2MY",
+        "title": "Tô Ouvindo Alguém Me Chamar - Instrumental em Vinil",
+        "description": "Grupo: Racionais MC's\nLançamento: Dezembro de 1997\nGravação: 1997\nGênero: Rap, Hip Hop Alternativo\nGravadora: Cosa Nostra",
+        "duration": 680,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7NNYP67AKpM",
+        "title": "Qual mentira vou acredita - Racionais Mcs",
+        "description": "Qual mentira vou acredita - Racionais Mcs",
+        "duration": 464,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=w-hNt5rgZ4k",
+        "title": "Diário de um Detento - Instrumental em Vinil",
+        "description": "Grupo: Racionais MC's\nLançamento: Dezembro de 1997\nGravação: 1997\nGênero: Rap, Hip Hop Alternativo\nGravadora: Cosa Nostra",
+        "duration": 444,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UrSGiQGeXW4",
+        "title": "Fórmula mágica da paz - Racionais Mcs",
+        "description": "Fórmula mágica da paz - Racionais Mcs",
+        "duration": 642,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vfbujF5sXOM",
+        "title": "Periferia é periferia Em quaquer lugar - Racionais Mcs",
+        "description": "Periferia é periferia Em quaquer lugar - Racionais Mcs",
+        "duration": 362,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=X9Zgl54qLWo",
+        "title": "Rapaz comum - Racionais Mcs",
+        "description": "Rapaz comum - Racionais Mcs",
+        "duration": 382,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8V5poSSpQm0",
+        "title": "Racionais Mc's - Diário de um detento",
+        "description": "http://vagalume.uol.com.br/racionais-mcs/diario-de-um-detento.html",
+        "duration": 451,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vzDcoPUxE_s",
+        "title": "Mágico de Oz - Racionais Mcs",
+        "description": "Mágico de Oz - Racionais Mcs",
+        "duration": 460,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=tPVX6VYLI1A",
+        "title": "Tô Ouvindo Alguém me Chamar",
+        "description": "Provided to YouTube by ONErpm\n\nTô Ouvindo Alguém me Chamar · Racionais Mc's\n\nSobrevivendo no Inferno\n\n℗ Racionais Mc's\n\nReleased on: 2006-01-01\n\nAuto-generated by YouTube.",
+        "duration": 673,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Hip Hop",
+      "Latin",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Gangsta",
+      "Conscious",
+      "Thug Rap"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Jorge Da Capadócia",
+        "extraartists": [
+          {
+            "name": "Jorge Ben",
+            "anv": "Jorge Benjor",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 30700,
+            "resource_url": "https://api.discogs.com/artists/30700"
+          }
+        ],
+        "duration": "2:48"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Genesis (Intro)",
+        "extraartists": [
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "0:23"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Capítulo 4, Versículo 3",
+        "extraartists": [
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "8:09"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Tô Ouvindo Alguém Me Chamar",
+        "extraartists": [
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "11:09"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Rapaz Comum",
+        "extraartists": [
+          {
+            "name": "Edi Rock",
+            "anv": "Edy Rock",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 145119,
+            "resource_url": "https://api.discogs.com/artists/145119"
+          }
+        ],
+        "duration": "6:25"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "...",
+        "extraartists": [
+          {
+            "name": "Edi Rock",
+            "anv": "Edy Rock",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 145119,
+            "resource_url": "https://api.discogs.com/artists/145119"
+          }
+        ],
+        "duration": "2:33"
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Diário De Um Detento",
+        "extraartists": [
+          {
+            "name": "Jocimar",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7841498,
+            "resource_url": "https://api.discogs.com/artists/7841498"
+          },
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "7:31"
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Periferia É Periferia (Em Qualquer Lugar)",
+        "extraartists": [
+          {
+            "name": "Edi Rock",
+            "anv": "Edy Rock",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 145119,
+            "resource_url": "https://api.discogs.com/artists/145119"
+          }
+        ],
+        "duration": "6:01"
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Qual Mentira Vou Acreditar",
+        "extraartists": [
+          {
+            "name": "Edi Rock",
+            "anv": "Edy Rock",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 145119,
+            "resource_url": "https://api.discogs.com/artists/145119"
+          },
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "7:42"
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Mágico De Oz",
+        "extraartists": [
+          {
+            "name": "Edi Rock",
+            "anv": "Edy Rock",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 145119,
+            "resource_url": "https://api.discogs.com/artists/145119"
+          }
+        ],
+        "duration": "7:38"
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Fórmula Mágica Da Paz",
+        "extraartists": [
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "10:40"
+      },
+      {
+        "position": "D3",
+        "type_": "track",
+        "title": "Salve",
+        "extraartists": [
+          {
+            "name": "Ice Blue",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3810926,
+            "resource_url": "https://api.discogs.com/artists/3810926"
+          },
+          {
+            "name": "Mano Brown",
+            "anv": "Brown",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1901238,
+            "resource_url": "https://api.discogs.com/artists/1901238"
+          }
+        ],
+        "duration": "2:15"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Gertz Palma",
+        "anv": "",
+        "join": "",
+        "role": "Co-producer",
+        "tracks": "",
+        "id": 208550,
+        "resource_url": "https://api.discogs.com/artists/208550"
+      },
+      {
+        "name": "Edi Rock",
+        "anv": "Edy Rock",
+        "join": "",
+        "role": "Performer",
+        "tracks": "",
+        "id": 145119,
+        "resource_url": "https://api.discogs.com/artists/145119"
+      },
+      {
+        "name": "Ice Blue",
+        "anv": "",
+        "join": "",
+        "role": "Performer",
+        "tracks": "",
+        "id": 3810926,
+        "resource_url": "https://api.discogs.com/artists/3810926"
+      },
+      {
+        "name": "KL Jay",
+        "anv": "",
+        "join": "",
+        "role": "Performer",
+        "tracks": "",
+        "id": 215280,
+        "resource_url": "https://api.discogs.com/artists/215280"
+      },
+      {
+        "name": "Mano Brown",
+        "anv": "Brown",
+        "join": "",
+        "role": "Performer",
+        "tracks": "",
+        "id": 1901238,
+        "resource_url": "https://api.discogs.com/artists/1901238"
+      },
+      {
+        "name": "Klaus Mitteldorf",
+        "anv": "",
+        "join": "",
+        "role": "Photography By [Uncredited]",
+        "tracks": "",
+        "id": 2288281,
+        "resource_url": "https://api.discogs.com/artists/2288281"
+      },
+      {
+        "name": "Racionais MC's",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 131139,
+        "resource_url": "https://api.discogs.com/artists/131139"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/I7BtpAfPlC9lSVShYJ1WkiKpB05BNaheA9wzmGMSc38/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDIz/My0yMjI4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/I7BtpAfPlC9lSVShYJ1WkiKpB05BNaheA9wzmGMSc38/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDIz/My0yMjI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RcBlBxsSDZjw973KUFYXNGBVVBHB8BOAYnNuV-Pzq1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDIz/My0yMjI4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 606
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JMwV8Zn9KTYHppvzELpb7LOLmqOVYbCounb9gG0UMYk/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI1/Mi03MDMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/JMwV8Zn9KTYHppvzELpb7LOLmqOVYbCounb9gG0UMYk/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI1/Mi03MDMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_utL7yKfQ-oIBeRXNM9IxMQIT0TZVnr6AZtlW40qrdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI1/Mi03MDMwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 608
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d9p5x22iuWWMsAd2jzl-5gsbz-Bq7P7p-X8RHjoE0kw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTkz/NC0yOTUwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/d9p5x22iuWWMsAd2jzl-5gsbz-Bq7P7p-X8RHjoE0kw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTkz/NC0yOTUwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hMZ_DcOrZKdhQSYJRujtjBd4UKiaDGuAluH9t0uAZMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTkz/NC0yOTUwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 584
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qnXZ0nhcrsfJRHh9gq5UgzCnoyh11eQnw5Qv1-OAyBw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTk0/Mi00NjMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qnXZ0nhcrsfJRHh9gq5UgzCnoyh11eQnw5Qv1-OAyBw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTk0/Mi00NjMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LCulO-3aeC1pgKqNWBhdM0nf4llTBtcWRoEDE_xtSSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTQwNjA2NTk0/Mi00NjMwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iMxUItG7s8Xdp6W-jXbfs1vz4zFpe-txuJERgoKmCnQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI2/NC03NTQ3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/iMxUItG7s8Xdp6W-jXbfs1vz4zFpe-txuJERgoKmCnQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI2/NC03NTQ3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/s7aimTxTKgNmuddkfEQ4cIlXLAlJ-uAJvs_T_4uwckE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDI2/NC03NTQ3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      }
+    ],
+    "thumb": "https://i.discogs.com/RcBlBxsSDZjw973KUFYXNGBVVBHB8BOAYnNuV-Pzq1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQw/MDktMTM5Nzc2MDIz/My0yMjI4LmpwZWc.jpeg",
+    "estimated_weight": 460,
+    "blocked_from_sale": false
+  }

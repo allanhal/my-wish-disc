@@ -1,0 +1,827 @@
+{
+  "id": 3535360,
+  "status": "Accepted",
+  "year": 2002,
+  "resource_url": "https://api.discogs.com/releases/3535360",
+  "uri": "https://www.discogs.com/release/3535360-Racionais-MCs-Nada-Como-Um-Dia-Ap%C3%B3s-O-Outro-Dia",
+  "artists": [
+      {
+          "name": "Racionais MC's",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 131139,
+          "resource_url": "https://api.discogs.com/artists/131139"
+      }
+  ],
+  "artists_sort": "Racionais MC's",
+  "labels": [
+      {
+          "name": "Cosa Nostra",
+          "catno": "1004-08",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 15567,
+          "resource_url": "https://api.discogs.com/labels/15567"
+      }
+  ],
+  "series": [],
+  "companies": [
+      {
+          "name": "Poly Som Com. E Ind. de Plásticos Ltda.",
+          "catno": "",
+          "entity_type": "10",
+          "entity_type_name": "Manufactured By",
+          "id": 395160,
+          "resource_url": "https://api.discogs.com/labels/395160"
+      },
+      {
+          "name": "Estúdio Instituto",
+          "catno": "",
+          "entity_type": "23",
+          "entity_type_name": "Recorded At",
+          "id": 1692586,
+          "resource_url": "https://api.discogs.com/labels/1692586"
+      },
+      {
+          "name": "Dub Studios, São Paulo",
+          "catno": "",
+          "entity_type": "23",
+          "entity_type_name": "Recorded At",
+          "id": 1119667,
+          "resource_url": "https://api.discogs.com/labels/1119667"
+      },
+      {
+          "name": "Dub Studios, São Paulo",
+          "catno": "",
+          "entity_type": "27",
+          "entity_type_name": "Mixed At",
+          "id": 1119667,
+          "resource_url": "https://api.discogs.com/labels/1119667"
+      },
+      {
+          "name": "Magic Master",
+          "catno": "",
+          "entity_type": "29",
+          "entity_type_name": "Mastered At",
+          "id": 340634,
+          "resource_url": "https://api.discogs.com/labels/340634"
+      }
+  ],
+  "formats": [
+      {
+          "name": "Vinyl",
+          "qty": "4",
+          "descriptions": [
+              "LP",
+              "Album"
+          ]
+      }
+  ],
+  "data_quality": "Correct",
+  "community": {
+      "have": 127,
+      "want": 419,
+      "rating": {
+          "count": 31,
+          "average": 4.81
+      },
+      "submitter": {
+          "username": "dapesadadj",
+          "resource_url": "https://api.discogs.com/users/dapesadadj"
+      },
+      "contributors": [
+          {
+              "username": "dapesadadj",
+              "resource_url": "https://api.discogs.com/users/dapesadadj"
+          },
+          {
+              "username": "Promo_Only_Djs",
+              "resource_url": "https://api.discogs.com/users/Promo_Only_Djs"
+          },
+          {
+              "username": "Jairinho",
+              "resource_url": "https://api.discogs.com/users/Jairinho"
+          },
+          {
+              "username": "J.Henrique",
+              "resource_url": "https://api.discogs.com/users/J.Henrique"
+          },
+          {
+              "username": "r1ch4rd.bono",
+              "resource_url": "https://api.discogs.com/users/r1ch4rd.bono"
+          },
+          {
+              "username": "lapcosta",
+              "resource_url": "https://api.discogs.com/users/lapcosta"
+          },
+          {
+              "username": "ozneztarg",
+              "resource_url": "https://api.discogs.com/users/ozneztarg"
+          },
+          {
+              "username": "Blackmaiden",
+              "resource_url": "https://api.discogs.com/users/Blackmaiden"
+          },
+          {
+              "username": "lbamaral",
+              "resource_url": "https://api.discogs.com/users/lbamaral"
+          }
+      ],
+      "data_quality": "Correct",
+      "status": "Accepted"
+  },
+  "format_quantity": 4,
+  "date_added": "2012-04-14T11:12:01-07:00",
+  "date_changed": "2021-03-02T02:34:54-08:00",
+  "num_for_sale": 4,
+  "lowest_price": 250,
+  "master_id": 430850,
+  "master_url": "https://api.discogs.com/masters/430850",
+  "title": "Nada Como Um Dia Após O Outro Dia",
+  "country": "Brazil",
+  "released": "2002",
+  "notes": "Gatefold sleeve.\nComes with insert.\nTrack 'H2' contains a sample of the song \"Onda\", written by Cassiano.\n\nRecorded at Estúdio Instituto and Dub Studios. \nMixed at Dub Studios, SP. \nMastered at Magic Master, RJ.",
+  "released_formatted": "2002",
+  "identifiers": [
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL AI 1004-08 AI VOCAL @",
+          "description": "Side A, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL BI 1004-08 BI VOCAL @",
+          "description": "Side B, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL AII 1004-09 AII VOCAL @",
+          "description": "Side C, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL BII 1004-09 BII VOCAL @",
+          "description": "Side D, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL AIII 1004-10 AIII VOCAL @",
+          "description": "Side E, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL BIII 1004-10 BIII VOCAL @",
+          "description": "Side F, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL AIV 1004-11 AIV VOCAL @",
+          "description": "Side G, etched"
+      },
+      {
+          "type": "Matrix / Runout",
+          "value": "RACIONAIS MC'S - VOCAL BIV 1004-11 BIV VOCAL @",
+          "description": "Side H, etched"
+      }
+  ],
+  "videos": [
+      {
+          "uri": "https://www.youtube.com/watch?v=fU5WjHfL9Ng",
+          "title": "Racionais MC's - Nada Como Um Dia Após o Outro Dia (2002)",
+          "description": "Rap Nacional",
+          "duration": 6621,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=L0t8CO88IDU",
+          "title": "Racionais Mc's - Vida Loka Parte 1 (Instrumental)",
+          "description": "Vida Loka parte 1 é a 4ª faixa do album Nada Como Um Dia Após o Outro dia, do grupo de Rap paulistano Racionais Mc's, lançado em 2002\n\nLetra: https://goo.gl/B8kolS",
+          "duration": 299,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=eRUa-1kTvT4",
+          "title": "RACIONAIS MCS NADA COMO UM DIA APÓS O OUTRO DIA CD",
+          "description": "",
+          "duration": 6621,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=HvRhaejqlPs",
+          "title": "Racionais Mc's - Vida Loka Parte 2 (Instrumental)",
+          "description": "Vida Loka parte 2 é a 18ª faixa do album Nada Como Um Dia Após o Outro dia, do grupo de Rap paulistano Racionais Mc's, lançado em 2002\n\nLetra: http://goo.gl/ihGrcQ",
+          "duration": 346,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=u4lcUooNNLY",
+          "title": "Negro Drama - Nada Como Um Dia Após O Outro Dia (Chora Agora)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 414,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=0O9kTQeULIA",
+          "title": "Eu Sou 157 - Instrumental em Vinil",
+          "description": "Grupo: Racionais MC's\nÁlbum :Nada Como um Dia Após o Outro Dia\nLançamento: 27 de Outubro de 2002\nGravação 2002\nGênero(s) Rap, Hip Hop Alternativo\nFormato(s): CD e LP\nGravadora(s): Cosa Nostra\nProdução: Racionais MC's Zé Gonzales",
+          "duration": 531,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=HlYTKuED--M",
+          "title": "Jesus Chorou - Nada Como Um Dia Após O Outro Dia (Ri Depois)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 473,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=WUdPuRaH_v4",
+          "title": "Jesus Chorou - Instrumental em Vinil",
+          "description": "Grupo: Racionais MC's\nÁlbum :Nada Como um Dia Após o Outro Dia\nLançamento: 27 de Outubro de 2002\nGravação 2002\nGênero(s) Rap, Hip Hop Alternativo\nFormato(s): CD e LP\nGravadora(s): Cosa Nostra\nProdução: Racionais MC's Zé Gonzales",
+          "duration": 469,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=JovdffVqJF4",
+          "title": "1 Por Amor 2 Por Dinheiro - Nada Como Um Dia Após O Outro Dia (Chora Agora)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 421,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=2gNP7zyKaYw",
+          "title": "VL (Parte 1) - Instrumental em Vinil",
+          "description": "Grupo: Racionais MC's\nÁlbum :Nada Como um Dia Após o Outro Dia\nLançamento: 27 de Outubro de 2002\nGravação 2002\nGênero(s) Rap, Hip Hop Alternativo\nFormato(s): CD e LP\nGravadora(s): Cosa Nostra\nProdução: Racionais MC's Zé Gonzales",
+          "duration": 301,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=flpOCM7OXDQ",
+          "title": "Expresso Da Meia Noite - Nada Como Um Dia Após O Outro Dia (Ri Depois)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 323,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=QkDIrJUeRq0",
+          "title": "Racionais mc's - nego drama (instrumental)",
+          "description": "toque da musica nego drama..!!",
+          "duration": 414,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=fgysUhl98As",
+          "title": "Eu sou 157 - Nada Como Um Dia Após O Outro Dia (Chora Agora)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 532,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=Xe8DN92jtbg",
+          "title": "Da ponte pra cá - Nada Como Um Dia Após O Outro Dia (Ri Depois)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 529,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=hNHlc7PoIdg",
+          "title": "Vida Loka Parte 2 - Nada Como Um Dia Após O Outro Dia (Ri Depois)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 352,
+          "embed": true
+      },
+      {
+          "uri": "https://www.youtube.com/watch?v=IL1epaZCTmk",
+          "title": "Vida Loka Parte I - Nada Como Um Dia Após O Outro Dia (Chora Agora)",
+          "description": "Racionais no Spotify http://smarturl.it/RacionaisNoSpotify\n\nShows Boogie Naipe 11 2362 1009 | 2362 1011\nAcesse o site oficial: www.racionaisoficial.com.br",
+          "duration": 306,
+          "embed": true
+      }
+  ],
+  "genres": [
+      "Hip Hop",
+      "Latin",
+      "Funk / Soul"
+  ],
+  "styles": [
+      "Gangsta",
+      "Conscious",
+      "Thug Rap"
+  ],
+  "tracklist": [
+      {
+          "position": "A1",
+          "type_": "track",
+          "title": "Sou + Você",
+          "duration": "1:48"
+      },
+      {
+          "position": "A2",
+          "type_": "track",
+          "title": "Vivão E Vivendo",
+          "duration": "1:58"
+      },
+      {
+          "position": "A3",
+          "type_": "track",
+          "title": "V.L. (Intro)",
+          "duration": "0:24"
+      },
+      {
+          "position": "A4",
+          "type_": "track",
+          "title": "V.L. (Parte 1)",
+          "duration": "5:03"
+      },
+      {
+          "position": "A5",
+          "type_": "track",
+          "title": "Negro Drama",
+          "duration": "6:52"
+      },
+      {
+          "position": "B1",
+          "type_": "track",
+          "title": "A Vítima",
+          "duration": "7:20"
+      },
+      {
+          "position": "B2",
+          "type_": "track",
+          "title": "Na Fé Firmão",
+          "duration": "6:05"
+      },
+      {
+          "position": "C1",
+          "type_": "track",
+          "title": "12 De Outubro",
+          "extraartists": [
+              {
+                  "name": "Silveira (3)",
+                  "anv": "",
+                  "join": "",
+                  "role": "Acoustic Guitar",
+                  "tracks": "",
+                  "id": 7366748,
+                  "resource_url": "https://api.discogs.com/artists/7366748"
+              }
+          ],
+          "duration": "3:31"
+      },
+      {
+          "position": "C2",
+          "type_": "track",
+          "title": "Eu Sou 157",
+          "extraartists": [
+              {
+                  "name": "Jackson (57)",
+                  "anv": "",
+                  "join": "",
+                  "role": "Bass",
+                  "tracks": "",
+                  "id": 7366746,
+                  "resource_url": "https://api.discogs.com/artists/7366746"
+              },
+              {
+                  "name": "Zé Gonzales",
+                  "anv": "",
+                  "join": "",
+                  "role": "Co-producer",
+                  "tracks": "",
+                  "id": 208876,
+                  "resource_url": "https://api.discogs.com/artists/208876"
+              },
+              {
+                  "name": "Zé Gonzales",
+                  "anv": "",
+                  "join": "",
+                  "role": "Programmed By [MPC]",
+                  "tracks": "",
+                  "id": 208876,
+                  "resource_url": "https://api.discogs.com/artists/208876"
+              }
+          ],
+          "duration": "8:50"
+      },
+      {
+          "position": "D1",
+          "type_": "track",
+          "title": "A Vida É Desafio",
+          "extraartists": [
+              {
+                  "name": "Afro X",
+                  "anv": "",
+                  "join": "",
+                  "role": "Featuring [Participação]",
+                  "tracks": "",
+                  "id": 437452,
+                  "resource_url": "https://api.discogs.com/artists/437452"
+              },
+              {
+                  "name": "Daniel Quirino",
+                  "anv": "",
+                  "join": "",
+                  "role": "Vocals",
+                  "tracks": "",
+                  "id": 215279,
+                  "resource_url": "https://api.discogs.com/artists/215279"
+              }
+          ],
+          "duration": "7:13"
+      },
+      {
+          "position": "D2",
+          "type_": "track",
+          "title": "1 Por Amor 2 Por Dinheiro",
+          "extraartists": [
+              {
+                  "name": "Nelsão \"DJ Nel\"",
+                  "anv": "",
+                  "join": "",
+                  "role": "Featuring [Participação]",
+                  "tracks": "",
+                  "id": 437451,
+                  "resource_url": "https://api.discogs.com/artists/437451"
+              },
+              {
+                  "name": "Silveira (3)",
+                  "anv": "",
+                  "join": "",
+                  "role": "Keyboards",
+                  "tracks": "",
+                  "id": 7366748,
+                  "resource_url": "https://api.discogs.com/artists/7366748"
+              },
+              {
+                  "name": "Daniel Ganjaman",
+                  "anv": "",
+                  "join": "",
+                  "role": "Synthesizer [Moog]",
+                  "tracks": "",
+                  "id": 1759045,
+                  "resource_url": "https://api.discogs.com/artists/1759045"
+              },
+              {
+                  "name": "Vanessa Jackson",
+                  "anv": "",
+                  "join": "",
+                  "role": "Vocals",
+                  "tracks": "",
+                  "id": 437453,
+                  "resource_url": "https://api.discogs.com/artists/437453"
+              }
+          ],
+          "duration": "6:58"
+      },
+      {
+          "position": "E1",
+          "type_": "track",
+          "title": "De Volta A Cena",
+          "duration": "2:01"
+      },
+      {
+          "position": "E2",
+          "type_": "track",
+          "title": "Otus 500",
+          "duration": "2:12"
+      },
+      {
+          "position": "E3",
+          "type_": "track",
+          "title": "Crime Vai E Vem",
+          "duration": "7:55"
+      },
+      {
+          "position": "F1",
+          "type_": "track",
+          "title": "Jesus Chorou",
+          "extraartists": [
+              {
+                  "name": "Daniel Ganjaman",
+                  "anv": "",
+                  "join": "",
+                  "role": "Bass",
+                  "tracks": "",
+                  "id": 1759045,
+                  "resource_url": "https://api.discogs.com/artists/1759045"
+              },
+              {
+                  "name": "Marcão",
+                  "anv": "",
+                  "join": "",
+                  "role": "Vocals",
+                  "tracks": "",
+                  "id": 215240,
+                  "resource_url": "https://api.discogs.com/artists/215240"
+              }
+          ],
+          "duration": "7:52"
+      },
+      {
+          "position": "F2",
+          "type_": "track",
+          "title": "Fone (Intro)",
+          "duration": "1:56"
+      },
+      {
+          "position": "F3",
+          "type_": "track",
+          "title": "Estilo Cachorro",
+          "extraartists": [
+              {
+                  "name": "Daniel Ganjaman",
+                  "anv": "",
+                  "join": "",
+                  "role": "Synthesizer [Moog]",
+                  "tracks": "",
+                  "id": 1759045,
+                  "resource_url": "https://api.discogs.com/artists/1759045"
+              }
+          ],
+          "duration": "6:18"
+      },
+      {
+          "position": "G1",
+          "type_": "track",
+          "title": "V.L. (Parte 2)",
+          "extraartists": [
+              {
+                  "name": "Silveira (3)",
+                  "anv": "",
+                  "join": "",
+                  "role": "Acoustic Guitar",
+                  "tracks": "",
+                  "id": 7366748,
+                  "resource_url": "https://api.discogs.com/artists/7366748"
+              }
+          ],
+          "duration": "5:50"
+      },
+      {
+          "position": "G2",
+          "type_": "track",
+          "title": "Expresso Da Meia-Noite",
+          "duration": "5:22"
+      },
+      {
+          "position": "H1",
+          "type_": "track",
+          "title": "Trutas E Quebradas",
+          "duration": "6:17"
+      },
+      {
+          "position": "H2",
+          "type_": "track",
+          "title": "Da Ponte Pra Cá",
+          "extraartists": [
+              {
+                  "name": "Nelsão \"DJ Nel\"",
+                  "anv": "",
+                  "join": "",
+                  "role": "Featuring [Participação]",
+                  "tracks": "",
+                  "id": 437451,
+                  "resource_url": "https://api.discogs.com/artists/437451"
+              },
+              {
+                  "name": "Cassiano",
+                  "anv": "",
+                  "join": "",
+                  "role": "Written-By [Sample 'Onda']",
+                  "tracks": "",
+                  "id": 400763,
+                  "resource_url": "https://api.discogs.com/artists/400763"
+              }
+          ],
+          "duration": "8:48"
+      }
+  ],
+  "extraartists": [
+      {
+          "name": "Giuliano Cesar",
+          "anv": "",
+          "join": "",
+          "role": "Art Direction",
+          "tracks": "",
+          "id": 7366747,
+          "resource_url": "https://api.discogs.com/artists/7366747"
+      },
+      {
+          "name": "Daniel Ganjaman",
+          "anv": "",
+          "join": "",
+          "role": "Management [Technical Direction]",
+          "tracks": "",
+          "id": 1759045,
+          "resource_url": "https://api.discogs.com/artists/1759045"
+      },
+      {
+          "name": "Zé Gonzales",
+          "anv": "",
+          "join": "",
+          "role": "Management [Technical Direction]",
+          "tracks": "",
+          "id": 208876,
+          "resource_url": "https://api.discogs.com/artists/208876"
+      },
+      {
+          "name": "Ricardo Garcia",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 473274,
+          "resource_url": "https://api.discogs.com/artists/473274"
+      },
+      {
+          "name": "Marco Venicio",
+          "anv": "",
+          "join": "",
+          "role": "Photography By [Booklet]",
+          "tracks": "",
+          "id": 7366749,
+          "resource_url": "https://api.discogs.com/artists/7366749"
+      },
+      {
+          "name": "Robson (24)",
+          "anv": "",
+          "join": "",
+          "role": "Photography By [Booklet]",
+          "tracks": "",
+          "id": 7366803,
+          "resource_url": "https://api.discogs.com/artists/7366803"
+      },
+      {
+          "name": "Klaus Mitteldorf",
+          "anv": "",
+          "join": "",
+          "role": "Photography By [Cover & Booklet]",
+          "tracks": "",
+          "id": 2288281,
+          "resource_url": "https://api.discogs.com/artists/2288281"
+      },
+      {
+          "name": "Racionais MC's",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 131139,
+          "resource_url": "https://api.discogs.com/artists/131139"
+      },
+      {
+          "name": "Daniel Ganjaman",
+          "anv": "Daniel Ganja Man",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1759045,
+          "resource_url": "https://api.discogs.com/artists/1759045"
+      },
+      {
+          "name": "Gustavo Lenza",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 437455,
+          "resource_url": "https://api.discogs.com/artists/437455"
+      },
+      {
+          "name": "Tejo",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 200737,
+          "resource_url": "https://api.discogs.com/artists/200737"
+      }
+  ],
+  "images": [
+      {
+          "type": "primary",
+          "uri": "https://i.discogs.com/PZsjv1Ne-2QW0NGjGAwT7Km8W9bojor4dKpwToDDSMI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yMjY2LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/PZsjv1Ne-2QW0NGjGAwT7Km8W9bojor4dKpwToDDSMI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yMjY2LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/juNOcK8PxC9dWDjyA_UOMiV3MdLaRN1vaq-HjcxBywI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yMjY2LmpwZWc.jpeg",
+          "width": 600,
+          "height": 583
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/ESZJ4nluZVP4NEu93TSxveOvO_6UUOsGWvMVqwOenDo/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yNjE5LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/ESZJ4nluZVP4NEu93TSxveOvO_6UUOsGWvMVqwOenDo/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yNjE5LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/I1a3bHUn4_PEUui9rUf_jsLKRdPcCt7RaDxRsPwzOSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yNjE5LmpwZWc.jpeg",
+          "width": 600,
+          "height": 574
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/vcL4gV4LDN5wAUtv8dLRHMiIcIZSTTZIlpW41qamG3k/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/OS03NzIwLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/vcL4gV4LDN5wAUtv8dLRHMiIcIZSTTZIlpW41qamG3k/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/OS03NzIwLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/Y-E7CL7hBUPpgg7mzcX9xtVvQt_pvuHApzkDSVCib_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/OS03NzIwLmpwZWc.jpeg",
+          "width": 600,
+          "height": 603
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/G-EN6qgnLZvHZOUGOl2qKoVfG9skZqJM0RfNNLi-7yw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC0xNjUwLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/G-EN6qgnLZvHZOUGOl2qKoVfG9skZqJM0RfNNLi-7yw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC0xNjUwLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/Cv2g90I_7_qSaU7MOZq5cQzNNnqP6gRPd2CVzcjtNCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC0xNjUwLmpwZWc.jpeg",
+          "width": 600,
+          "height": 604
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/wGVfd0y7IXZQTZRa4OzqRIj_z6RZK3e5UwhKvUZ3aZc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC04NDA3LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/wGVfd0y7IXZQTZRa4OzqRIj_z6RZK3e5UwhKvUZ3aZc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC04NDA3LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/CD5K1Stu1BstCV7LABfL8IoO6fJ_pC-2aywEGgDkXXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC04NDA3LmpwZWc.jpeg",
+          "width": 600,
+          "height": 604
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/67DkHNWcnL6hndz4yh0b2qJx_jss-0VUEMbHw2FM3AU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC00Mzk0LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/67DkHNWcnL6hndz4yh0b2qJx_jss-0VUEMbHw2FM3AU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC00Mzk0LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/3SCogTBOsvIzsQNOLyvLHRJmU26dnG5oKXXGA6wRRpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY2/MC00Mzk0LmpwZWc.jpeg",
+          "width": 600,
+          "height": 605
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/XIhhfRgOHLpznJOwIPcxbgG2seydATSFGd06_-eu5eU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ni01MjkzLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/XIhhfRgOHLpznJOwIPcxbgG2seydATSFGd06_-eu5eU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ni01MjkzLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/ZkyPg9btNohMNjKKHHciEGNzIqbMt1lq6WKsR-y-n0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ni01MjkzLmpwZWc.jpeg",
+          "width": 600,
+          "height": 595
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/Cw1KcL5SBOcoZLph3MfiEA5Ej-A1CvEBe_YrzwCTGGo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny01NjA2LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/Cw1KcL5SBOcoZLph3MfiEA5Ej-A1CvEBe_YrzwCTGGo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny01NjA2LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/kXd1sa7t9gZfDkCGE0Uwdv4bfew37YeDIxYRuY643rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny01NjA2LmpwZWc.jpeg",
+          "width": 600,
+          "height": 605
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/SrQU0FEwGJCdzXKBcufr3ywWFOz2vJ3TuJJknxkAcwk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY0/MC04MzgwLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/SrQU0FEwGJCdzXKBcufr3ywWFOz2vJ3TuJJknxkAcwk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY0/MC04MzgwLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/S-3MPZycBXwMs2RZVi-DaHstyuoXMIQD1sp3XjMz3dA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY0/MC04MzgwLmpwZWc.jpeg",
+          "width": 600,
+          "height": 602
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/DQ37k0yNWpUPWhymBhQu7Kk35ZnjS2NZ3gR-4r74vlA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny0yMDc4LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/DQ37k0yNWpUPWhymBhQu7Kk35ZnjS2NZ3gR-4r74vlA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny0yMDc4LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/U4oeIcKhYTCtCw1MpLY28NRMfHJDw00CFn37emJQnrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjY1/Ny0yMDc4LmpwZWc.jpeg",
+          "width": 600,
+          "height": 605
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/9yYu73Tt_nlMojSL-YyR7Yq-vHvtgwsu4opWGAvYKtQ/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni04MzYyLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/9yYu73Tt_nlMojSL-YyR7Yq-vHvtgwsu4opWGAvYKtQ/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni04MzYyLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/ImCrWi__ADCj5NlS12asxYy5lF0k_V6AbQHWJoOkfjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni04MzYyLmpwZWc.jpeg",
+          "width": 600,
+          "height": 290
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/vS9ZhgfAmXqBbacYaFAxc06aFam2RI4W6mrffTPzDQw/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My0yMjgxLmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/vS9ZhgfAmXqBbacYaFAxc06aFam2RI4W6mrffTPzDQw/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My0yMjgxLmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/eaE6hTDeQn-3dvG79wJQ_UXleW-tLT778Bz7_AMCW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My0yMjgxLmpwZWc.jpeg",
+          "width": 600,
+          "height": 583
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/_mgx5uUpAg-TFF1YCVbYIe_YG19nVqCxxVDQVLNtJeA/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My05Nzc3LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/_mgx5uUpAg-TFF1YCVbYIe_YG19nVqCxxVDQVLNtJeA/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My05Nzc3LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/MAEGGHWu7qJYuwPkYF2rf0rLTBD5ZIVt52VEVS6gyKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/My05Nzc3LmpwZWc.jpeg",
+          "width": 600,
+          "height": 576
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/lkk2Vw6pnAXswFFY4k9pEW8FpJFVOMTQnbnx3v_hn4Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzA5/NS04NzY5LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/lkk2Vw6pnAXswFFY4k9pEW8FpJFVOMTQnbnx3v_hn4Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzA5/NS04NzY5LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/E2gv1eN3ok3fq4z6KLAhtmXRKSL6twoBBiQDCwrAEhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzA5/NS04NzY5LmpwZWc.jpeg",
+          "width": 600,
+          "height": 595
+      },
+      {
+          "type": "secondary",
+          "uri": "https://i.discogs.com/NX2DiDUR39rYTihSvjpVgpLMRog08bXiO16wISTy0U4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni05NzU2LmpwZWc.jpeg",
+          "resource_url": "https://i.discogs.com/NX2DiDUR39rYTihSvjpVgpLMRog08bXiO16wISTy0U4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni05NzU2LmpwZWc.jpeg",
+          "uri150": "https://i.discogs.com/luNdtZgwCSJoSdh5q6JYi5bc8Ek0ZOEhu1QqXgWxzD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MzEw/Ni05NzU2LmpwZWc.jpeg",
+          "width": 600,
+          "height": 600
+      }
+  ],
+  "thumb": "https://i.discogs.com/juNOcK8PxC9dWDjyA_UOMiV3MdLaRN1vaq-HjcxBywI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUz/NjAtMTU2ODE3MjUw/Ny0yMjY2LmpwZWc.jpeg",
+  "estimated_weight": 920,
+  "blocked_from_sale": false
+}
