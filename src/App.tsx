@@ -74,7 +74,7 @@ function App() {
       <div className="pb-5">
         <span className="text-5xl">Lista de desejos</span>
       </div>
-      <div className="flex justify-center items-center gap-10 flex-wrap">
+      <div className="flex justify-center gap-10 flex-wrap">
         {data?.map((item) => (
           <a key={item.id} href={item.uri} target="_blank">
             <div className="max-w-sm rounded overflow-hidden shadow-lg py-5 w-[300px]">
@@ -90,7 +90,7 @@ function App() {
                   {item.artists_sort}
                 </div>
                 <p className="text-gray-700 text-base mb-2">{item.title}</p>
-                <div className="text-xs">Menor preço: {item.lowest_price}</div>
+                {/* <div className="text-xs">Menor preço: {item.lowest_price}</div> */}
               </div>
               <div className="px-6 pt-4 pb-2">
                 {item.styles.map((tag) => (
