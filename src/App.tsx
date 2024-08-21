@@ -3,6 +3,8 @@ import './App.css';
 
 import axios from 'axios';
 import { useEffect, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
+
 
 const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
@@ -19,6 +21,9 @@ const IDS = [
 const IDS_REMOTE = [247822];
 
 function App() {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [ids, setIds] = useState(searchParams.get('ids'));
+
   const [data, setData] = useState<
     {
       id: string;
@@ -34,7 +39,7 @@ function App() {
   useEffect(() => {
     const execReqLocal = async () => {
       const res = await Promise.all(
-        IDS.map((id) => import(`../data/${id}.json`))
+        (ids || '').split(',').map((id) => import(`../data/${id}.json`))
       );
 
       setData(res);
@@ -42,7 +47,7 @@ function App() {
 
     const execReqRemote = async () => {
       const res = await Promise.all(
-        IDS_REMOTE.map((id) =>
+        (ids || '').split(',').map((id) =>
           axios(`https://api.discogs.com/releases/${id}` + KEY_STRING)
         )
       );
@@ -50,13 +55,13 @@ function App() {
       setData(res.map((res) => res.data));
     };
 
-    if (IDS && IDS.length > 0) {
-      execReqLocal();
-    }
-
-    // if (IDS_REMOTE && IDS_REMOTE.length > 0) {
-    //   execReqRemote();
+    // if (IDS && IDS.length > 0) {
+    //   execReqLocal();
     // }
+
+    if (IDS_REMOTE && IDS_REMOTE.length > 0) {
+      execReqRemote();
+    }
   }, []);
 
   // useEffect(() => {
@@ -71,6 +76,8 @@ function App() {
 
   return (
     <div className="">
+      <div>{ids}</div>
+      <button onClick={() => setSearchParams({ ids: IDS.join(',') })}>set new</button>
       <div className="pb-5">
         <span className="text-5xl">Lista de desejos</span>
       </div>
