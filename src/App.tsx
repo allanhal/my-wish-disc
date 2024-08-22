@@ -22,7 +22,7 @@ const IDS_REMOTE = [247822];
 
 function App() {
   const [searchParams, setSearchParams] = useSearchParams();
-  const [ids, setIds] = useState(searchParams.get('ids'));
+  const [ids, setIds] = useState(searchParams.get('ids') || IDS.join(','));
 
   const [data, setData] = useState<
     {
@@ -62,13 +62,19 @@ function App() {
     if (IDS_REMOTE && IDS_REMOTE.length > 0) {
       execReqRemote();
     }
-  }, []);
+  }, [ids]);
 
   // useEffect(() => {
   //   if (data) {
   //     console.log(data[0]);
   //   }
   // }, [data]);
+
+  useEffect(() => {
+    if (searchParams) {
+      console.log(searchParams);
+    }
+  }, [searchParams]);
 
   if (!data || data.length === 0) {
     return <p className="animate-ping">Loading...</p>;
@@ -77,7 +83,6 @@ function App() {
   return (
     <div className="">
       <div>{ids}</div>
-      <button onClick={() => setSearchParams({ ids: IDS.join(',') })}>set new</button>
       <div className="pb-5">
         <span className="text-5xl">Lista de desejos</span>
       </div>
