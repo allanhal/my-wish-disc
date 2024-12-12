@@ -3,86 +3,70 @@ import './App.css';
 
 import axios from 'axios';
 import { useEffect, useState } from 'react';
-import { useSearchParams } from 'react-router-dom';
-
 
 const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
 const KEY_STRING = `?&key=${KEY}&secret=${SECRET}`;
 
 const IDS = [
-  5604009, 3535360,
-  //  12642678,
-  13953461,
-  //  1007820,
-  2848009, 6528159,
-  // 247822,
+  5604009, // sobrevivendo no inferno
+  13953461, // blueman
+  2848009, // back to black
+  6528159, // o glorioso retorno de quem nunca esteve aqui
+  25683820, // damn
+  3419793, // curtain calls
+  981795, // bb king
+  4609520, // legiao dvd
+  10501023, // legiao show
+  7296834, // legiao mais do mesmo
+  4151865, // bruno e marrone ao vivo
 ];
-const IDS_REMOTE = [247822];
 
 function App() {
-  const [searchParams, setSearchParams] = useSearchParams();
-  const [ids, setIds] = useState(searchParams.get('ids') || IDS.join(','));
-
   const [data, setData] = useState<
     {
       id: string;
       artists_sort: string;
       thumb: string;
       title: string;
+      type: string;
       styles: string[];
+      formats: {
+        descriptions: string[];
+        name: string;
+      }[];
       uri: string;
       lowest_price: string;
     }[]
   >();
 
   useEffect(() => {
-    const execReqLocal = async () => {
-      const res = await Promise.all(
-        (ids || '').split(',').map((id) => import(`../data/${id}.json`))
-      );
-
-      setData(res);
-    };
-
     const execReqRemote = async () => {
       const res = await Promise.all(
-        (ids || '').split(',').map((id) =>
-          axios(`https://api.discogs.com/releases/${id}` + KEY_STRING)
-        )
+        IDS.map((id) => {
+          const a = axios(
+            `https://api.discogs.com/releases/${id}` + KEY_STRING
+          );
+
+          return a;
+        })
       );
 
       setData(res.map((res) => res.data));
     };
 
-    // if (IDS && IDS.length > 0) {
-    //   execReqLocal();
-    // }
-
-    if (IDS_REMOTE && IDS_REMOTE.length > 0) {
-      execReqRemote();
-    }
-  }, [ids]);
-
-  // useEffect(() => {
-  //   if (data) {
-  //     console.log(data[0]);
-  //   }
-  // }, [data]);
-
-  useEffect(() => {
-    if (searchParams) {
-      console.log(searchParams);
-    }
-  }, [searchParams]);
+    execReqRemote();
+  }, []);
 
   if (!data || data.length === 0) {
     return <p className="animate-ping">Loading...</p>;
   }
 
+  console.log("debug: data ", data);
+
   return (
     <div className="">
-      <div>{ids}</div>
+      {/* <div>{ids}</div> */}
       <div className="pb-5">
         <span className="text-5xl">Lista de desejos</span>
       </div>
@@ -90,6 +74,10 @@ function App() {
         {data?.map((item) => (
           <a key={item.id} href={item.uri} target="_blank">
             <div className="max-w-sm rounded overflow-hidden shadow-lg py-5 w-[300px]">
+              {/* <span>LP</span> */}
+              <div className="pb-5">
+                <span className="text-2xl">{item.formats[0].name}</span>
+              </div>
               <div className="flex justify-center items-center">
                 <img
                   className="h-[100px]"
