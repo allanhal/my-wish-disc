@@ -4,6 +4,8 @@ import './App.css';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 
+import instagram from './assets/instagram.webp';
+
 const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
 const KEY_STRING = `?&key=${KEY}&secret=${SECRET}`;
@@ -19,7 +21,7 @@ const IDS = [
   4609520, // legiao dvd
   10501023, // legiao show
   7296834, // legiao mais do mesmo
-  4151865, // bruno e marrone ao vivo
+  // 4151865, // bruno e marrone ao vivo
 ];
 
 function App() {
@@ -58,17 +60,26 @@ function App() {
     execReqRemote();
   }, []);
 
-  if (!data || data.length === 0) {
-    return <p className="animate-ping">Loading...</p>;
-  }
-
-  console.log("debug: data ", data);
+  // if (!data || data.length === 0) {
+  //   return <p className="animate-ping">Loading...</p>;
+  // }
 
   return (
     <div className="">
       {/* <div>{ids}</div> */}
-      <div className="pb-5">
-        <span className="text-5xl">Lista de desejos</span>
+      <div className="pb-5 flex flex-col gap-10 justify-center items-center">
+        <span className="text-5xl">Estou em busca dessas mídias.</span>
+        <div className="flex flex-col justify-center items-center">
+          <span className="text-xl">Contato instagram:</span>
+          <a href="https://www.instagram.com/allanhal/" target="_blank">
+            <img
+              src={instagram}
+              alt="instagram link"
+              style={{ width: "100px" }}
+            />
+            <span className="text-xl">@allanhal</span>
+          </a>
+        </div>
       </div>
       <div className="flex justify-center gap-10 flex-wrap">
         {data?.map((item) => (
