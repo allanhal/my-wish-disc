@@ -1,10 +1,10 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import './App.css';
+import "./App.css";
 
-import axios from 'axios';
-import { useEffect, useState } from 'react';
+import axios from "axios";
+import { useEffect, useState } from "react";
 
-import instagram from './assets/instagram.webp';
+import instagram from "./assets/instagram.webp";
 
 const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
@@ -22,6 +22,8 @@ const IDS = [
   10501023, // legiao show
   7296834, // legiao mais do mesmo
   // 4151865, // bruno e marrone ao vivo
+  6302256, // Criolo-Emicida-Ao-Vivo
+  1529452, //Legião-Urbana-Música-P-Acampamentos
 ];
 
 function App() {
