@@ -18,11 +18,11 @@ const IDS = [
   25683820, // damn
   3419793, // curtain calls
   981795, // bb king
-  6302256, // Criolo-Emicida-Ao-Vivo
   1529452, //Legião-Urbana-Música-P-Acampamentos
   4609520, // dvd - legiao dvd
   10501023, // cd - legiao show
   7296834, // cd - legiao mais do mesmo
+  6302256, // Criolo-Emicida-Ao-Vivo
   // 4151865, // bruno e marrone ao vivo
 ];
 
