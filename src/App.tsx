@@ -1,10 +1,10 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import "./App.css";
+import './App.css';
 
-import axios from "axios";
-import { useEffect, useState } from "react";
+import axios from 'axios';
+import { useEffect, useState } from 'react';
 
-import instagram from "./assets/instagram.webp";
+import instagram from './assets/instagram.webp';
 
 const KEY = "fDPuzDCZvRVudVyXTyMJ";
 const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
@@ -18,12 +18,12 @@ const IDS = [
   25683820, // damn
   3419793, // curtain calls
   981795, // bb king
-  4609520, // legiao dvd
-  10501023, // legiao show
-  7296834, // legiao mais do mesmo
-  // 4151865, // bruno e marrone ao vivo
   6302256, // Criolo-Emicida-Ao-Vivo
   1529452, //Legião-Urbana-Música-P-Acampamentos
+  4609520, // dvd - legiao dvd
+  10501023, // cd - legiao show
+  7296834, // cd - legiao mais do mesmo
+  // 4151865, // bruno e marrone ao vivo
 ];
 
 function App() {
