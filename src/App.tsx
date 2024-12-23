@@ -20,9 +20,9 @@ const IDS = [
   981795, // bb king
   1529452, //Legião-Urbana-Música-P-Acampamentos
   14451287, // vinil - this is america
-  4609520, // dvd - legiao dvd
-  10501023, // cd - legiao show
-  7296834, // cd - legiao mais do mesmo
+  // 4609520, // dvd - legiao dvd
+  // 10501023, // cd - legiao show
+  // 7296834, // cd - legiao mais do mesmo
   6302256, // Criolo-Emicida-Ao-Vivo
   12261925, // cd - meus momentos the fevers
 ];
