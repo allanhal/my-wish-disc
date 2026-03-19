@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Outer disc -->
+  <circle cx="50" cy="50" r="48" fill="#3f3f46"/>
+  <circle cx="50" cy="50" r="46" fill="#333" stroke="#555" stroke-width="0.8"/>
+  <!-- Grooves -->
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#444" stroke-width="0.6"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#3a3a3a" stroke-width="0.5"/>
+  <circle cx="50" cy="50" r="34" fill="none" stroke="#444" stroke-width="0.6"/>
+  <circle cx="50" cy="50" r="30" fill="none" stroke="#3a3a3a" stroke-width="0.5"/>
+  <circle cx="50" cy="50" r="26" fill="none" stroke="#444" stroke-width="0.6"/>
+  <!-- Shine -->
+  <ellipse cx="38" cy="38" rx="18" ry="12" fill="white" opacity="0.08" transform="rotate(-30 38 38)"/>
+  <!-- Label -->
+  <circle cx="50" cy="50" r="16" fill="#b45309"/>
+  <circle cx="50" cy="50" r="15" fill="#f59e0b"/>
+  <circle cx="50" cy="50" r="15" fill="url(#lg)"/>
+  <!-- Center hole -->
+  <circle cx="50" cy="50" r="3" fill="#222"/>
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+</svg>
