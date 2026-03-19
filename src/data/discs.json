@@ -1,0 +1,612 @@
+[
+  {
+    "id": 13953461,
+    "artists_sort": "Baco Exu Do Blues",
+    "thumb": "https://i.discogs.com/hoIhX7t7ItW7Y-oX1hdPXqtxA-fLgUkWrTSyaPSdewU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/wYMxqYJ_8Ui5TzhIQHeywqevOlXpBAGLaFVYj0pcQCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/wYMxqYJ_8Ui5TzhIQHeywqevOlXpBAGLaFVYj0pcQCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hoIhX7t7ItW7Y-oX1hdPXqtxA-fLgUkWrTSyaPSdewU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDEtODE5Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Jb_ukFgRBdrFOVtbuSFgeCj6XdI6MkiK69FEyzusSjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Jb_ukFgRBdrFOVtbuSFgeCj6XdI6MkiK69FEyzusSjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/08VaZlO9XIiqCRTRndFRdHhyG-aym89WwyzSmX7iARw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtMjc4MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SAuZRjTeQZnsRBhh0bTELLWRnemPTDYZnzH8YJiuayY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SAuZRjTeQZnsRBhh0bTELLWRnemPTDYZnzH8YJiuayY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/R7YiEa7TFiVpfvQOO6zwNqj5nngZ9XSONddDZkMEh9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDMtOTUyMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BAOir0Otmn_MWv1Aa8muCFfSvUvWnuXMMMdsYhCH8MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/BAOir0Otmn_MWv1Aa8muCFfSvUvWnuXMMMdsYhCH8MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/27_4YEIX8mGfZkd6jNMSb76r1fDZUkdxziRdURuLyDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDYxLTE1NjY4Njk3/MDItMTg5Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "title": "Bluesman",
+    "styles": [
+      "Trap",
+      "Bass Music",
+      "Rhythm & Blues",
+      "Favela Funk"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Grey, Gatefold "
+      }
+    ],
+    "uri": "https://www.discogs.com/release/13953461-Baco-Exu-Do-Blues-Bluesman"
+  },
+  {
+    "id": 6528159,
+    "artists_sort": "Emicida",
+    "thumb": "https://i.discogs.com/YqvpVANmzfjvy-rPa39jCeR0AfN79ooWJ7WDd_0fIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/6rvPaPmW884fcBnzGwt3_r4sbQADgXXvRFnCAZknf-o/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/6rvPaPmW884fcBnzGwt3_r4sbQADgXXvRFnCAZknf-o/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YqvpVANmzfjvy-rPa39jCeR0AfN79ooWJ7WDd_0fIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgx/Ny0xNzcxLmpwZWc.jpeg",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vyRSwnjHcpTW_IKxmj5NyHFWR3efDQHDppgGNSlp-dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/vyRSwnjHcpTW_IKxmj5NyHFWR3efDQHDppgGNSlp-dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_2SCWzspVRVEKe5sSHnlSqOW7_fttlXHurOlOuoMbxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTQyMTI5Nzgy/Mi0yMTk0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RwXrCBK6vTVN_uc3F8LIIHCXO7A10bIh9RT2_GGyKUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/RwXrCBK6vTVN_uc3F8LIIHCXO7A10bIh9RT2_GGyKUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MOiJb6Gb7ooF5izqprz7Q3CB9iPWPP_HwNiAryYUFpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/MS0zMDY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/apCKfGmt92x5tEIIK6mYI-O-8VzOosBIV2ljXfBtuwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/apCKfGmt92x5tEIIK6mYI-O-8VzOosBIV2ljXfBtuwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wB7fC9PCYyedAhRv5dshzX6gJUkzZFt17z8vxPk4KpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjU3/NS03MTgzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kpLIsjfD_fK83Doa-Z-8T1qeS-EX5VwMdaskHuTTdfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/kpLIsjfD_fK83Doa-Z-8T1qeS-EX5VwMdaskHuTTdfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1JbFGioZC5VxDCCSyn852RIjHX4Gh0r6zsOiCDnvRXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUy/NS01NjAwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sfe93pm4YnuarAxyqwilqLdYva1vyGU2WJR0039HISo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/sfe93pm4YnuarAxyqwilqLdYva1vyGU2WJR0039HISo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8rd1jsAKjYLCrUdhoIuE8X3u-SGXFiaShSIA5ND2ZJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjgx/NTktMTY0Njc1NjUz/MC04OTk3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "title": "O Glorioso Retorno De Quem Nunca Esteve Aqui",
+    "styles": [
+      "Conscious",
+      "MPB",
+      "Pop Rap"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/6528159-Emicida-O-Glorioso-Retorno-De-Quem-Nunca-Esteve-Aqui"
+  },
+  {
+    "id": 25683820,
+    "artists_sort": "Kendrick Lamar",
+    "thumb": "https://i.discogs.com/OVnIS77TKvNMduJYltOlrtQKAW9RCH-VMUHk-yck9TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzMyODgy/OTUtNzQ5Mi5qcGVn.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/rKFmsNag6lSOzDCbGZmWXMalB1QxnVTnSq7_HU1zWcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzMyODgy/OTUtNzQ5Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/rKFmsNag6lSOzDCbGZmWXMalB1QxnVTnSq7_HU1zWcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzMyODgy/OTUtNzQ5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OVnIS77TKvNMduJYltOlrtQKAW9RCH-VMUHk-yck9TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzMyODgy/OTUtNzQ5Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Fs9hauRruu7C7dSp6pZ5YOf2Ek2u9eSY96bAVjpeWa8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzQzNjc3/NDktNzY4My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Fs9hauRruu7C7dSp6pZ5YOf2Ek2u9eSY96bAVjpeWa8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzQzNjc3/NDktNzY4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N0-EzymH2iPohpHCXh40e9OWlLF4qg8E_pqfqMBEpvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njgz/ODIwLTE2NzQzNjc3/NDktNzY4My5qcGVn.jpeg",
+        "width": 600,
+        "height": 594
+      }
+    ],
+    "title": "Damn.",
+    "styles": [
+      "Conscious"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": "Gatefold"
+      }
+    ],
+    "uri": "https://www.discogs.com/release/25683820-Kendrick-Lamar-Damn"
+  },
+  {
+    "id": 3419793,
+    "artists_sort": "Eminem",
+    "thumb": "https://i.discogs.com/zK0O3oAIm4DNzz9b4GKetjCuENAOqC2ZdZP_TWMdpsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkz/MC0xMTMwLmpwZWc.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vE1aazdVwuFaX77FU_bXOGZfTNkfPF_eb5BqJuFEQfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkz/MC0xMTMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/vE1aazdVwuFaX77FU_bXOGZfTNkfPF_eb5BqJuFEQfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkz/MC0xMTMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zK0O3oAIm4DNzz9b4GKetjCuENAOqC2ZdZP_TWMdpsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkz/MC0xMTMwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CQydxoWp9LH0uc44Y6dXS13jrShGpNAXEY7MrwpzKhY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkw/Mi00NTczLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/CQydxoWp9LH0uc44Y6dXS13jrShGpNAXEY7MrwpzKhY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkw/Mi00NTczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/6FnP_Taa7JfuIpaHgSnZgSJeIkJu0gFRpnr0k1Qw5Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTUwMTM4MDkw/Mi00NTczLmpwZWc.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0x7F6_zUfzq3BRSgjM7Pz1A87OnUfIMft_VcfU9M6gY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxMzQ0MTg1/Ni0xMjk4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/0x7F6_zUfzq3BRSgjM7Pz1A87OnUfIMft_VcfU9M6gY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxMzQ0MTg1/Ni0xMjk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nZyG9WA6NJ8JCBhoMBRYcT9Ba71svRsdlRGzgatv6eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxMzQ0MTg1/Ni0xMjk4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GRAA_8rRyUf9IHqVYGUlqRNMexoEOT443Wy3ZTPV1Rk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/MS02Nzc2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/GRAA_8rRyUf9IHqVYGUlqRNMexoEOT443Wy3ZTPV1Rk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/MS02Nzc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LIa5EKqCRT7UUJklVFAPa1S1OEMmPrstKYqfRBrJHfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/MS02Nzc2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 585
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wKEZoN6Sge0qSzunPNzyYD7KL2uGOlS3bbw7fa9h27A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/OC00NDc1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/wKEZoN6Sge0qSzunPNzyYD7KL2uGOlS3bbw7fa9h27A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/OC00NDc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iysjDfZueRS-MyWWXeo21R6RquzJxhmz_Zs7hIyVrBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY3/OC00NDc1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 585
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IMkQVj2d0XlBj1FyX3mFSNztxvPoNMRSSssTOeL7i20/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/NC0zNjIzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/IMkQVj2d0XlBj1FyX3mFSNztxvPoNMRSSssTOeL7i20/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/NC0zNjIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/omuF26htcDlQrREEOvS_bfHlIrOOduPn2juskrHnhAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/NC0zNjIzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7uvlH2DyqKfisQgWDcv3zw7K16piW4JG5NWdTmYo6PQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/OS0zOTA1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/7uvlH2DyqKfisQgWDcv3zw7K16piW4JG5NWdTmYo6PQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/OS0zOTA1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iBzrezqwqgUiMSdkQ4xz_rs7RH_W7fVfZ1GZIySbyWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY4/OS0zOTA1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lSEf3d_fSbUl0uKXgx0W82xcd3rgN7Bzl4ok22v4BgQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY5/My04MDc4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/lSEf3d_fSbUl0uKXgx0W82xcd3rgN7Bzl4ok22v4BgQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY5/My04MDc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/cofB80ms59gbwNJiqIQt-X2b4u95eR5_wk4PcNf_r34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk3/OTMtMTYxOTU0NDY5/My04MDc4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 577
+      }
+    ],
+    "title": "Curtain Call: The Hits",
+    "styles": [
+      "Gangsta"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": "Gatefold Sleeve"
+      }
+    ],
+    "uri": "https://www.discogs.com/release/3419793-Eminem-Curtain-Call-The-Hits"
+  },
+  {
+    "id": 981795,
+    "artists_sort": "B.B. King & Eric Clapton",
+    "thumb": "https://i.discogs.com/xyH8r8zLb7Kx-Sv-ihfMZGcnSyiT5kqIijKEvEksqmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzA5/LmpwZWc.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/iBBJnpmbp4zTdmtljB0INLKgvWAJcZg36OmSPcgw5bw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzA5/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/iBBJnpmbp4zTdmtljB0INLKgvWAJcZg36OmSPcgw5bw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzA5/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xyH8r8zLb7Kx-Sv-ihfMZGcnSyiT5kqIijKEvEksqmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzA5/LmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/y06KipJelzq7eOQoQCqLAElpGJilz5JWVBhSEyCM4K4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzEz/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/y06KipJelzq7eOQoQCqLAElpGJilz5JWVBhSEyCM4K4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzEz/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WB7U_gxTiCMR6IitQvJq_bXOjoG-bSeG8u-Z279RB5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMTgwNDQ2NzEz/LmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0pA1naTRLa8SdvXm9j-78NVazomWoYBxC-qimrLSNB8/rs:fit/g:sm/q:90/h:318/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDkwNDQ3Nzg2/LTYyODkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/0pA1naTRLa8SdvXm9j-78NVazomWoYBxC-qimrLSNB8/rs:fit/g:sm/q:90/h:318/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDkwNDQ3Nzg2/LTYyODkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/8G3TdEFNU9i-IRJPSC4NYxoiaAhKpbiXqnU1racv05Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDkwNDQ3Nzg2/LTYyODkuanBlZw.jpeg",
+        "width": 320,
+        "height": 318
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vXURmUTDoqN8BCk_xJzq3rCCrNFxcoujffZvJPnUAgY/rs:fit/g:sm/q:90/h:552/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMzU1OTI4MTMy/LTkwMzYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/vXURmUTDoqN8BCk_xJzq3rCCrNFxcoujffZvJPnUAgY/rs:fit/g:sm/q:90/h:552/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMzU1OTI4MTMy/LTkwMzYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/tuPyjXhmsYWNJb5fRRgfvaRBNowYJqmonAREzxVoAQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xMzU1OTI4MTMy/LTkwMzYuanBlZw.jpeg",
+        "width": 550,
+        "height": 552
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RF9dqTJ5ndvlwxBdxUQazyzt2qFR1YFSDpThv_QNK4E/rs:fit/g:sm/q:90/h:600/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTg3NTUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/RF9dqTJ5ndvlwxBdxUQazyzt2qFR1YFSDpThv_QNK4E/rs:fit/g:sm/q:90/h:600/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTg3NTUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/wq01qtpUJoGyeQj7nyB7DZ3s9MGuIym8lyAL447J5xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTg3NTUuanBlZw.jpeg",
+        "width": 546,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dQ8Ip-Y4CApjS5w0uZJf6dp_pQ-FGQb4CTymqQQCJb4/rs:fit/g:sm/q:90/h:600/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTYzOTMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/dQ8Ip-Y4CApjS5w0uZJf6dp_pQ-FGQb4CTymqQQCJb4/rs:fit/g:sm/q:90/h:600/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTYzOTMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/8aQ2VRPvwgprkYsw2aooYwGJfAcSLjsKETcysKlaWSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNTA5ODcxMTAy/LTYzOTMuanBlZw.jpeg",
+        "width": 545,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_Crxu3YrNRUOtH6thQKY6DXiTKYA0gwBdk6lTf7NbPg/rs:fit/g:sm/q:90/h:142/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDMyMzAxMjAy/LTUwNTQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/_Crxu3YrNRUOtH6thQKY6DXiTKYA0gwBdk6lTf7NbPg/rs:fit/g:sm/q:90/h:142/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDMyMzAxMjAy/LTUwNTQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/rEY7VQLFJuZ3TcQNzp9b9fs1k2jJEPckLiBF9HEtYG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NS0xNDMyMzAxMjAy/LTUwNTQuanBlZw.jpeg",
+        "width": 600,
+        "height": 142
+      }
+    ],
+    "title": "Riding With The King",
+    "styles": [
+      "Blues Rock"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/981795-BB-King-Eric-Clapton-Riding-With-The-King"
+  },
+  {
+    "id": 1529452,
+    "artists_sort": "Legião Urbana",
+    "thumb": "https://i.discogs.com/XL-8qLT5prlWDY7yD78awa7-oAMTvQGcKTa_nCI2EL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/My03OTU1LmpwZWc.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/INyu-41M6YpdOJ1mrsdxHA4CMo-JEMa1SeSFAFg3BMM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/My03OTU1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/INyu-41M6YpdOJ1mrsdxHA4CMo-JEMa1SeSFAFg3BMM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/My03OTU1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XL-8qLT5prlWDY7yD78awa7-oAMTvQGcKTa_nCI2EL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/My03OTU1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sOkyjSuarDll6P28PJgmcI57jyimV8DUMlnSAkrqDhY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Mi0xNjE3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/sOkyjSuarDll6P28PJgmcI57jyimV8DUMlnSAkrqDhY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Mi0xNjE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ZayHAfOFvIt1rOdfTrIh7CpP5ekpZnuRT1sC0BYs-oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Mi0xNjE3LmpwZWc.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tHDGtiRu8N8np_VcvaL57x-SD7Ep4LPytpV0vzMd8ZE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/MS05Mzc1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/tHDGtiRu8N8np_VcvaL57x-SD7Ep4LPytpV0vzMd8ZE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/MS05Mzc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/42q8uASlUgofg8NQ-HbQt0kyF1J8T_wd0SC84qVQZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/MS05Mzc1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VyCG5TVz6kn6z84ZDYTOikEBn3apAPHRJVMUFpvRfUw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/My0yMTM1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/VyCG5TVz6kn6z84ZDYTOikEBn3apAPHRJVMUFpvRfUw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/My0yMTM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/KXhoFwjsvBnxHgzNoDWjLzaU9BotbiNwoxKY8kwAU0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/My0yMTM1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1gGX7GmXrqQMopt0skBmzNd2vDfSql_CAytIP2F3eJo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NC0yNTcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/1gGX7GmXrqQMopt0skBmzNd2vDfSql_CAytIP2F3eJo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NC0yNTcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/p3mYZggB14N7G6E9YtUO-Ua3-waEGUAlSJAinT8LcdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NC0yNTcxLmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/S1FxowG2-uGT4w3OZA4dl3OPDQ8LC-WgNSj38siMOE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NS0xNzIzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/S1FxowG2-uGT4w3OZA4dl3OPDQ8LC-WgNSj38siMOE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NS0xNzIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Yy4fXOGS-2RZyzP6FFIoPeDRZ2Dgs-alALVYkJBcLwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/NS0xNzIzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7eIuwdBGtUHqAplPDreHeW9vipYYFdplQZryLCSHMac/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Ny02OTEyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/7eIuwdBGtUHqAplPDreHeW9vipYYFdplQZryLCSHMac/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Ny02OTEyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fknE5rviD7EFl4uUHPQLIfnVY-lwf7f3OYehRg6764o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzkx/Ny02OTEyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ApE4kIR04jZb2Yl7QABqWz41XYUwwgDemSdiMbr-Wo8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/Mi0zOTY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ApE4kIR04jZb2Yl7QABqWz41XYUwwgDemSdiMbr-Wo8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/Mi0zOTY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/P2ltH8W0Umcu4oAignbfbHHXDy7li5GqpGqpnC5loAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwMzky/Mi0zOTY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UXqF2Kdvjz_2NQXYiT1DF6E77AzqS3avBwojDo-R6lQ/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwNDA2/NS0xNjUyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/UXqF2Kdvjz_2NQXYiT1DF6E77AzqS3avBwojDo-R6lQ/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwNDA2/NS0xNjUyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TmLPGzeLKOPAxWTIm7fFCkXm4r1CYShqktAPv4WMa7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTU4NjkwNDA2/NS0xNjUyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 289
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/65cLy34IlclH4JA8XxTAIuNaG6x7tB-IxVpWzYKabbM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTYzOTQzMTI4/MS01NjA1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/65cLy34IlclH4JA8XxTAIuNaG6x7tB-IxVpWzYKabbM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTYzOTQzMTI4/MS01NjA1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/R4HUu3dCYxRZTMpPD8CqRSNxDOkgnk4S3JHjPQgaxyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NTItMTYzOTQzMTI4/MS01NjA1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "title": "Música P/ Acampamentos",
+    "styles": [
+      "Pop Rock",
+      "Punk",
+      "Synth-pop"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/1529452-Legião-Urbana-Música-P-Acampamentos"
+  },
+  {
+    "id": 14451287,
+    "artists_sort": "Childish Gambino",
+    "thumb": "https://i.discogs.com/w5_wLpGbXGFtKnrY_BHynOlNeujQljwix4DZk1BTu6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1OTA3ODM2/ODMtMzYzOC5qcGVn.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vRS-7rVSYNM6959p0-cEW6u88-fgDLq0TOiCUGphBb4/rs:fit/g:sm/q:90/h:482/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1OTA3ODM2/ODMtMzYzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vRS-7rVSYNM6959p0-cEW6u88-fgDLq0TOiCUGphBb4/rs:fit/g:sm/q:90/h:482/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1OTA3ODM2/ODMtMzYzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/w5_wLpGbXGFtKnrY_BHynOlNeujQljwix4DZk1BTu6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1OTA3ODM2/ODMtMzYzOC5qcGVn.jpeg",
+        "width": 481,
+        "height": 482
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tWuaaGZLOZbjVN48uFFA_dY1_4Vuyny4UWGBfnidQjY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NDEtMjk5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/tWuaaGZLOZbjVN48uFFA_dY1_4Vuyny4UWGBfnidQjY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NDEtMjk5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1NZL-SEkUdsqh3pWUKHHgKGnHEGf-bY6k9aHLV_g-q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NDEtMjk5Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I6xxkCHyC8wdeAPTBjuC83gowmRf2VzaIM04wBCM5ys/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NjQtMzE1Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/I6xxkCHyC8wdeAPTBjuC83gowmRf2VzaIM04wBCM5ys/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NjQtMzE1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lgK1KHXekklj4ykUaQ7EluonRswKPlt0Az3r6a1uxF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/NjQtMzE1Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CZW1TfkCPeh7nYFWDJM64mUgzfYxI8o41KutqiAFiCw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/OTItMjY1My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/CZW1TfkCPeh7nYFWDJM64mUgzfYxI8o41KutqiAFiCw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/OTItMjY1My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lnFMAlhF-P_MOpyemADDfavlXo8R64Tb7Cv4zbCbZ2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4MzY5/OTItMjY1My5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XzQd4Q1GEHextY1yKsHR-7FYK7Okj8KO5VMM0R_Lgew/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4Mzcw/MjktMzI2OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/XzQd4Q1GEHextY1yKsHR-7FYK7Okj8KO5VMM0R_Lgew/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4Mzcw/MjktMzI2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/W7Ot7xtmiE4uF1mjjQ_An34tbjzspL6potkLizhEINo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/Mjg3LTE1NzQ4Mzcw/MjktMzI2OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      }
+    ],
+    "title": "This Is America",
+    "styles": [
+      "Gospel",
+      "Trap",
+      "Conscious"
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "7\"",
+          "45 RPM",
+          "Unofficial Release"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/14451287-Childish-Gambino-This-Is-America"
+  },
+  {
+    "id": 6302256,
+    "artists_sort": "Criolo & Emicida",
+    "thumb": "https://i.discogs.com/qTrbJtNhi0DPcB1V-Ln0_KoX3lYbCdmZeBG8XAnaRlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC01MTE4LmpwZWc.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/f-uHfk2a1QzNIB36_pE94E30GTfRddiJRQogv9iM6z4/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC01MTE4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/f-uHfk2a1QzNIB36_pE94E30GTfRddiJRQogv9iM6z4/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC01MTE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qTrbJtNhi0DPcB1V-Ln0_KoX3lYbCdmZeBG8XAnaRlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC01MTE4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 541
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1mkaiTZgJRLt5r50Hsn0tFVJ8TxQeYMmqPVAlKeP96g/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC0yNTIwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/1mkaiTZgJRLt5r50Hsn0tFVJ8TxQeYMmqPVAlKeP96g/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC0yNTIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0hdSSXRug7MzQZLuRNin2HpLVLwj11ayq51CWJAhwds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC0yNTIwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 280
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5JwYaHI5yjpAmnWHy6gAO2Xp8DNXqW7CO-RZHO_xHr4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC03NDU2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/5JwYaHI5yjpAmnWHy6gAO2Xp8DNXqW7CO-RZHO_xHr4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC03NDU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xmSVEroXkn3C7O95Ic13xHp8asE6WDyHg1rwhxxjwEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NC03NDU2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 297
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EhmsLzqV1mLbnLDYXKtTyBjpQMYc_73GId-Gxa20G-I/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NS00MjI1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/EhmsLzqV1mLbnLDYXKtTyBjpQMYc_73GId-Gxa20G-I/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NS00MjI1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/EOirM8AgsvpF6Gop6mwCQq2DLHBt96Cixh6duTsWbCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDIy/NTYtMTU3NDgyNTEx/NS00MjI1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 297
+      }
+    ],
+    "title": "Ao Vivo",
+    "styles": [
+      "Pop Rap"
+    ],
+    "formats": [
+      {
+        "name": "CD",
+        "qty": "1",
+        "descriptions": [
+          "Album"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/6302256-Criolo-Emicida-Ao-Vivo"
+  },
+  {
+    "id": 12261925,
+    "artists_sort": "Fevers, The",
+    "thumb": "https://i.discogs.com/OZWyybZyAKWD_n4NWTXxtZULMNl2QWg-hrZT3qs-NO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1NTM4OTIx/NTktMzEwOC5qcGVn.jpeg",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/PGR3ko20Dv1zmWM7V9zZqdaT5JoErgw2IKd2YjJj8FI/rs:fit/g:sm/q:90/h:550/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1NTM4OTIx/NTktMzEwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/PGR3ko20Dv1zmWM7V9zZqdaT5JoErgw2IKd2YjJj8FI/rs:fit/g:sm/q:90/h:550/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1NTM4OTIx/NTktMzEwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OZWyybZyAKWD_n4NWTXxtZULMNl2QWg-hrZT3qs-NO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1NTM4OTIx/NTktMzEwOC5qcGVn.jpeg",
+        "width": 548,
+        "height": 550
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sY_7pfXpJ_FkwmZmc9NrMi2jAHDmOphV2XMcxZ5_I34/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTctODQ0Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/sY_7pfXpJ_FkwmZmc9NrMi2jAHDmOphV2XMcxZ5_I34/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTctODQ0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TEs33opyVfnz0e4JT8SI4cW20I2kkfbjJPj951rJokQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTctODQ0Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BB65ggtuZ191BolGwkKR2RZ8pzsQ82nb9wvWH7kkBtw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTEtNzcxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/BB65ggtuZ191BolGwkKR2RZ8pzsQ82nb9wvWH7kkBtw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTEtNzcxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gqT_P8gBxDSZe0KESvoU6gDojskdwXdAK-HyXg3RD5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MTEtNzcxOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yQlhzjyY42odrQmhKu_3G5L6cEbA3zIag7XbH9tdxxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MjUtMjQyMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/yQlhzjyY42odrQmhKu_3G5L6cEbA3zIag7XbH9tdxxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MjUtMjQyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8kqnD6yAC3ZKzi7L-WPXLmO-M7kPAIVUJu3U_TwG6hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/OTI1LTE1MzE2Njgy/MjUtMjQyMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      }
+    ],
+    "title": "Meus Momentos ",
+    "styles": [
+      "MPB"
+    ],
+    "formats": [
+      {
+        "name": "CD",
+        "qty": "1",
+        "descriptions": [
+          "Compilation"
+        ]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/12261925-The-Fevers-Meus-Momentos-"
+  }
+]

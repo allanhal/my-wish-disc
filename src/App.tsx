@@ -1,31 +1,7 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import './App.css';
 
-import axios from 'axios';
-import { useEffect, useState } from 'react';
-
 import instagram from './assets/instagram.webp';
-
-const KEY = "fDPuzDCZvRVudVyXTyMJ";
-const SECRET = "ncLniYJXSgMCoydevODixTIDrgULdzLM";
-const KEY_STRING = `?&key=${KEY}&secret=${SECRET}`;
-
-const IDS = [
-  // 5604009, // sobrevivendo no inferno
-  13953461, // blueman
-  // 2848009, // back to black
-  6528159, // o glorioso retorno de quem nunca esteve aqui
-  25683820, // damn
-  3419793, // curtain calls
-  981795, // bb king
-  1529452, //Legião-Urbana-Música-P-Acampamentos
-  14451287, // vinil - this is america
-  // 4609520, // dvd - legiao dvd
-  // 10501023, // cd - legiao show
-  // 7296834, // cd - legiao mais do mesmo
-  6302256, // Criolo-Emicida-Ao-Vivo
-  12261925, // cd - meus momentos the fevers
-];
+import discs from './data/discs.json';
 
 function VinylDisc() {
   return (
@@ -123,48 +99,6 @@ function FormatIcon({ name }: { name: string }) {
 }
 
 function App() {
-  const [data, setData] = useState<
-    {
-      id: string;
-      artists_sort: string;
-      thumb: string;
-      images: {
-        type: string;
-        uri: string;
-        uri150: string;
-        resource_url: string;
-        width: number;
-        height: number;
-      }[];
-      title: string;
-      type: string;
-      styles: string[];
-      formats: {
-        descriptions: string[];
-        name: string;
-      }[];
-      uri: string;
-      lowest_price: string;
-    }[]
-  >();
-
-  useEffect(() => {
-    const execReqRemote = async () => {
-      const res = await Promise.all(
-        IDS.map((id) => {
-          const a = axios(
-            `https://api.discogs.com/releases/${id}` + KEY_STRING
-          );
-
-          return a;
-        })
-      );
-
-      setData(res.map((res) => res.data));
-    };
-
-    execReqRemote();
-  }, []);
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-zinc-950 via-zinc-900 to-zinc-950 text-white">
@@ -196,17 +130,10 @@ function App() {
         </div>
       </header>
 
-      {/* Loading state */}
-      {!data && (
-        <div className="flex justify-center py-20">
-          <div className="w-10 h-10 border-4 border-amber-500/30 border-t-amber-500 rounded-full animate-spin" />
-        </div>
-      )}
-
       {/* Grid */}
       <main className="max-w-7xl mx-auto px-4 pb-16">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {data?.map((item) => (
+          {discs.map((item) => (
             <a
               key={item.id}
               href={item.uri}
