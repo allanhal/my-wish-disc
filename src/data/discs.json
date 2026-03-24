@@ -38,20 +38,12 @@
       }
     ],
     "title": "Bluesman",
-    "styles": [
-      "Trap",
-      "Bass Music",
-      "Rhythm & Blues",
-      "Favela Funk"
-    ],
+    "styles": ["Trap", "Bass Music", "Rhythm & Blues", "Favela Funk"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "1",
-        "descriptions": [
-          "LP",
-          "Album"
-        ],
+        "descriptions": ["LP", "Album"],
         "text": "Grey, Gatefold "
       }
     ],
@@ -112,19 +104,12 @@
       }
     ],
     "title": "O Glorioso Retorno De Quem Nunca Esteve Aqui",
-    "styles": [
-      "Conscious",
-      "MPB",
-      "Pop Rap"
-    ],
+    "styles": ["Conscious", "MPB", "Pop Rap"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "1",
-        "descriptions": [
-          "LP",
-          "Album"
-        ]
+        "descriptions": ["LP", "Album"]
       }
     ],
     "uri": "https://www.discogs.com/release/6528159-Emicida-O-Glorioso-Retorno-De-Quem-Nunca-Esteve-Aqui"
@@ -152,18 +137,12 @@
       }
     ],
     "title": "Damn.",
-    "styles": [
-      "Conscious"
-    ],
+    "styles": ["Conscious"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "2",
-        "descriptions": [
-          "LP",
-          "Album",
-          "Reissue"
-        ],
+        "descriptions": ["LP", "Album", "Reissue"],
         "text": "Gatefold"
       }
     ],
@@ -240,17 +219,12 @@
       }
     ],
     "title": "Curtain Call: The Hits",
-    "styles": [
-      "Gangsta"
-    ],
+    "styles": ["Gangsta"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "2",
-        "descriptions": [
-          "LP",
-          "Compilation"
-        ],
+        "descriptions": ["LP", "Compilation"],
         "text": "Gatefold Sleeve"
       }
     ],
@@ -319,20 +293,56 @@
       }
     ],
     "title": "Riding With The King",
-    "styles": [
-      "Blues Rock"
-    ],
+    "styles": ["Blues Rock"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "1",
-        "descriptions": [
-          "LP",
-          "Album"
-        ]
+        "descriptions": ["LP", "Album"]
       }
     ],
     "uri": "https://www.discogs.com/release/981795-BB-King-Eric-Clapton-Riding-With-The-King"
+  },
+  {
+    "id": 25602088,
+    "artists_sort": "Péricles",
+    "thumb": "https://i.discogs.com/JfWyRpsiByhNRrngnXBz6DfFbSlYKddAGzrs78pCCJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNDU5MS5qcGVn.jpeg",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pw4pN8Qbk9kOiUiCJvVFyza3byZ3aBLTpIUCMI196gg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNDU5MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/pw4pN8Qbk9kOiUiCJvVFyza3byZ3aBLTpIUCMI196gg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNDU5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JfWyRpsiByhNRrngnXBz6DfFbSlYKddAGzrs78pCCJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNDU5MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ttVAgVAHnzWBXvV5dWqjVU8LgpHZ1VIn9FlV7VbcaxI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDctMzAyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ttVAgVAHnzWBXvV5dWqjVU8LgpHZ1VIn9FlV7VbcaxI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDctMzAyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/i6Se2ZiEwlnLswSXCuW7oJNfcaY94bEbcqUN3zvVjpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDctMzAyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 591
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-3kHefntwLja68DrN3L7v9mN0u2NRC_yZSnwrDox69c/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNjUzMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/-3kHefntwLja68DrN3L7v9mN0u2NRC_yZSnwrDox69c/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNjUzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bOwoUoPlj1Qb5h_NZb5ArRGTYp9cWlHMZ9ZFHdCVC5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAy/MDg4LTE2NzIzMTky/NDgtNjUzMi5qcGVn.jpeg",
+        "width": 571,
+        "height": 600
+      }
+    ],
+    "title": "Feito Pra Durar",
+    "styles": ["Samba"],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": ["LP", "Album", "Limited Edition", "Stereo"]
+      }
+    ],
+    "uri": "https://www.discogs.com/release/25602088-Péricles-Feito-Pra-Durar"
   },
   {
     "id": 1529452,
@@ -421,19 +431,12 @@
       }
     ],
     "title": "Música P/ Acampamentos",
-    "styles": [
-      "Pop Rock",
-      "Punk",
-      "Synth-pop"
-    ],
+    "styles": ["Pop Rock", "Punk", "Synth-pop"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "2",
-        "descriptions": [
-          "LP",
-          "Album"
-        ]
+        "descriptions": ["LP", "Album"]
       }
     ],
     "uri": "https://www.discogs.com/release/1529452-Legião-Urbana-Música-P-Acampamentos"
@@ -485,20 +488,12 @@
       }
     ],
     "title": "This Is America",
-    "styles": [
-      "Gospel",
-      "Trap",
-      "Conscious"
-    ],
+    "styles": ["Gospel", "Trap", "Conscious"],
     "formats": [
       {
         "name": "Vinyl",
         "qty": "1",
-        "descriptions": [
-          "7\"",
-          "45 RPM",
-          "Unofficial Release"
-        ]
+        "descriptions": ["7\"", "45 RPM", "Unofficial Release"]
       }
     ],
     "uri": "https://www.discogs.com/release/14451287-Childish-Gambino-This-Is-America"
@@ -542,16 +537,12 @@
       }
     ],
     "title": "Ao Vivo",
-    "styles": [
-      "Pop Rap"
-    ],
+    "styles": ["Pop Rap"],
     "formats": [
       {
         "name": "CD",
         "qty": "1",
-        "descriptions": [
-          "Album"
-        ]
+        "descriptions": ["Album"]
       }
     ],
     "uri": "https://www.discogs.com/release/6302256-Criolo-Emicida-Ao-Vivo"
@@ -595,16 +586,12 @@
       }
     ],
     "title": "Meus Momentos ",
-    "styles": [
-      "MPB"
-    ],
+    "styles": ["MPB"],
     "formats": [
       {
         "name": "CD",
         "qty": "1",
-        "descriptions": [
-          "Compilation"
-        ]
+        "descriptions": ["Compilation"]
       }
     ],
     "uri": "https://www.discogs.com/release/12261925-The-Fevers-Meus-Momentos-"
